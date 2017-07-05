@@ -1,0 +1,135 @@
+apply plugin: "com.android.application"
+apply plugin: "kotlin-android"
+apply plugin: "kotlin-kapt"
+
+apply from: "$project.rootDir/tools/script-dependencies.gradle"
+//apply from: "$project.rootDir/tools/script-checkstyle.gradle"
+//apply from: "$project.rootDir/tools/script-errorprone.gradle"
+//apply from: "$project.rootDir/tools/script-findbugs.gradle"
+//apply from: "$project.rootDir/tools/script-jacoco.gradle"
+//apply from: "$project.rootDir/tools/script-lint.gradle"
+//apply from: "$project.rootDir/tools/script-pmd.gradle"
+
+def versionMajor = 1
+def versionMinor = 0
+def versionPatch = 0
+def versionBuild = 0
+
+android {
+  compileSdkVersion 25
+  buildToolsVersion "25.0.2"
+  defaultConfig {
+    applicationId "com.giaquino.sample"
+    minSdkVersion 16
+    targetSdkVersion 25
+    versionCode versionMajor * 1000000 + versionMinor * 10000 + versionPatch * 100 + versionBuild
+    versionName "${versionMajor}.${versionMinor}.${versionPatch}"
+    archivesBaseName = "app-${versionName}"
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+  }
+  signingConfigs {
+    debug {
+      keyAlias "androiddebugkey"
+      keyPassword "android"
+      storePassword "android"
+      storeFile file("../keystore/debug.jks")
+    }
+    release {
+      keyAlias "androiddebugkey"
+      keyPassword "android"
+      storePassword "android"
+      storeFile file("../keystore/debug.jks")
+    }
+  }
+  buildTypes {
+    debug {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile("proguard-android.txt")
+      signingConfig signingConfigs.debug
+      testCoverageEnabled true
+    }
+    release {
+      minifyEnabled true
+      proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+      signingConfig signingConfigs.release
+    }
+  }
+  dataBinding {
+    enabled = true
+  }
+  dexOptions {
+    // Sets the maximum number of DEX processes that can be started concurrently.
+    maxProcessCount 8
+    // Sets the maximum memory allocation pool size for the dex operation.
+    javaMaxHeapSize "2g"
+    // Enables Gradle to pre-dex library dependencies.
+    preDexLibraries true
+  }
+  configurations.all {
+    resolutionStrategy.force "com.google.code.findbugs:jsr305:3.0.1"
+  }
+}
+
+dependencies {
+  compile fileTree(dir: "libs", include: ["*.jar"])
+
+  compile "com.android.support:design:$supportVersion"
+  compile "com.android.support:appcompat-v7:$supportVersion"
+  compile "com.android.support:support-compat:$supportVersion"
+  compile "com.android.support:support-core-ui:$supportVersion"
+  compile "com.android.support:support-fragment:$supportVersion"
+  compile "com.android.support:recyclerview-v7:$supportVersion"
+  compile "com.android.support:gridlayout-v7:$supportVersion"
+  compile "com.android.support:percent:$supportVersion"
+  //compile "com.android.support:customtabs:$supportVersion"
+  //compile "com.android.support:cardview-v7:$supportVersion"
+  //compile "com.android.support:gridlayout-v7:$supportVersion"
+  //compile "com.android.support:palette-v7:$supportVersion"
+  //compile "com.android.support:preference-v7:$supportVersion"
+  //compile "com.android.support:multidex:1.0.1"
+  //compile "com.android.support:mediarouter-v7:$supportVersion"
+  //compile "com.android.support:support-media-compat:$supportVersion"
+
+  compile "android.arch.persistence.room:runtime:1.0.0-alpha1"
+  compile "android.arch.persistence.room:rxjava2:1.0.0-alpha1"
+  testCompile "android.arch.persistence.room:testing:1.0.0-alpha1"
+  annotationProcessor "android.arch.persistence.room:compiler:1.0.0-alpha1"
+
+  compile "com.google.android.gms:play-services-location:$playServicesVersion"
+  compile "com.google.android.gms:play-services-maps:$playServicesVersion"
+
+  compile "com.jakewharton.timber:timber:4.5.1"
+  compile "io.reactivex.rxjava2:rxkotlin:2.0.3"
+  compile "io.reactivex.rxjava2:rxandroid:2.0.1"
+
+  compile "com.google.dagger:dagger-android:2.11-rc1"
+  compile "com.google.dagger:dagger-android-support:2.11-rc1"
+  annotationProcessor "com.google.dagger:dagger-android-processor:2.11-rc1"
+
+  testCompile "junit:junit:4.12"
+  testCompile "org.assertj:assertj-core:3.6.2"
+  testCompile "org.mockito:mockito-core:2.7.17"
+  testCompile "org.robolectric:robolectric:3.3.2"
+
+  androidTestCompile "com.squareup.spoon:spoon-client:1.7.1"
+  androidTestCompile("com.android.support.test:rules:0.5", {
+    exclude group: "com.android.support"
+  })
+  androidTestCompile("com.android.support.test:runner:0.5", {
+    exclude group: "com.android.support"
+  })
+  androidTestCompile("com.android.support.test.espresso:espresso-core:2.2.2", {
+    exclude group: "com.android.support"
+  })
+  androidTestCompile("com.android.support.test.espresso:espresso-contrib:2.2.2", {
+    exclude group: "com.android.support"
+  })
+  testCompile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+  compile "org.jetbrains.kotlinx:kotlinx-coroutines-core:0.15"
+  compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
+  kapt "com.android.databinding:compiler:2.3.0-beta1"
+}
+
+kapt {
+  generateStubs = true
+}

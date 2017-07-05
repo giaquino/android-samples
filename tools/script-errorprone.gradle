@@ -1,0 +1,22 @@
+/**
+ * This plugins checks for violations of Java common programming mistakes.
+ *
+ * Plugin Guide: https://plugins.gradle.org/plugin/net.ltgt.errorprone
+ * Rules Guide: http://errorprone.info/bugpatterns
+ *
+ * Add the following to your root  build.gradle
+ * inside repositories{..}  maven { url "https://plugins.gradle.org/m2/" }
+ * inside dependencies {..} classpath "net.ltgt.gradle:gradle-errorprone-plugin:0.0.9"
+ */
+apply plugin: "net.ltgt.errorprone"
+
+subprojects {
+
+    afterEvaluate {
+        tasks.withType(JavaCompile) {
+            // Configure errorprone by adding -Xep:[BUG_PATTERN]:[OFF/WARN/ERROR]
+            // http://errorprone.info/bugpatterns
+            options.compilerArgs += ["-Xep:MissingOverride:WARN"]
+        }
+    }
+}

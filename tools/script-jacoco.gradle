@@ -1,0 +1,17 @@
+apply plugin: "jacoco"
+
+task javaCodeCoverage(type: JacocoReport, dependsOn: "testDebugUnitTest") {
+    def classFileTree = fileTree(
+            dir: "${buildDir}/intermediates/classes/",
+            excludes: ['**/R.class', '**/R$*.class', '**/BuildConfig.*', '**/Manifest*.*', '**/*Test*.*', 'android/**/*.*', '**/*$*.class'],
+            includes: ['**/*Activity*.class']
+    )
+    classDirectories = files([classFileTree])
+    sourceDirectories = files("$project.projectDir/android/src/main/java")
+    executionData = files("$project.buildDir/jacoco/testDebugUnitTest.exec")
+    reports {
+        xml.enabled = false
+        html.enabled = true
+        html.destination "$project.buildDir/outputs/reports/jacoco"
+    }
+}

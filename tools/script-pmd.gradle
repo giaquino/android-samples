@@ -1,0 +1,38 @@
+/**
+ * Plugin Guide: https://docs.gradle.org/current/userguide/pmd_plugin.html
+ * Rules Guide: http://pmd.sourceforge.net/pmd-4.3.0/howtomakearuleset.html
+ * Release: https://pmd.github.io/
+ */
+apply plugin: "pmd"
+
+pmd {
+    toolVersion "5.5.4"
+}
+
+task pmd(type: Pmd) {
+    description "Run pmd in your project"
+    group "verification"
+    ruleSetFiles = files("$project.rootDir/tools/rules-pmd.xml")
+    source "src"
+    include "**/*.java"
+    exclude "**/*Test.java"
+    ignoreFailures = false
+    consoleOutput true
+    reports {
+        xml.enabled = false
+        html.enabled = true
+        html.destination = "$project.buildDir/outputs/reports/pmd.html"
+    }
+}
+
+afterEvaluate {
+    preBuild.dependsOn("pmd")
+}
+
+gradle.taskGraph.afterTask { task, state ->
+    if (task.name == "pmd" && state.failure) {
+        exec {
+            commandLine "open", "$project.buildDir/outputs/reports/pmd.html"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+/**
+ * Plugin Guide: https://docs.gradle.org/current/userguide/checkstyle_plugin.html
+ * Rules Guide: http://checkstyle.sourceforge.net/checks.html
+ * Versions: http://checkstyle.sourceforge.net/releasenotes.html
+ */
+apply plugin: "checkstyle"
+
+checkstyle {
+    toolVersion = "7.6"
+}
+
+task checkstyle(type: Checkstyle) {
+    description "Run checkstyle in your project"
+    group "verification"
+    configFile file("$project.rootDir/tools/rules-checkstyle.xml")
+    ignoreFailures false
+    showViolations true
+    source "src"
+    include "**/*.java"
+    exclude "**/*Test.java"
+    classpath = files()
+    reports {
+        xml.enabled false
+        xml.destination "$project.buildDir/outputs/reports/checkstyle.xml"
+        html.enabled true
+        html.destination "$project.buildDir/outputs/reports/checkstyle.html"
+    }
+}
+
+afterEvaluate {
+    preBuild.dependsOn("checkstyle")
+}
+
+gradle.taskGraph.afterTask { task, state ->
+    if (task.name == "checkstyle" && state.failure) {
+        exec {
+            commandLine "open", "$project.buildDir/outputs/reports/checkstyle.html"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+/**
+ * This plugin finds bugs in your java code.
+ *
+ * Plugin Guide: https://docs.gradle.org/current/dsl/org.gradle.api.plugins.quality.FindBugs.html
+ * Rules Guide: http://findbugs.sourceforge.net/manual/filter.html
+ */
+apply plugin: "findbugs"
+
+task findbugs(type: FindBugs) {
+    excludeFilter = file("$project.rootDir/tools/rules-findbugs.xml")
+    classes = files("${projectDir}/build/intermediates/classes")
+    source "src"
+    include "**/*.java"
+    exclude "**/*Test.java"
+    classpath = files()
+    effort = "max"
+    reportLevel = "low"
+    ignoreFailures = false
+    reports {
+        xml.enabled = false
+        html.enabled = true
+        html.destination = "$project.buildDir/outputs/reports/findbugs.html"
+    }
+}
+
+afterEvaluate {
+    build.dependsOn("findbugs")
+}
+
+gradle.taskGraph.afterTask { task, state ->
+    if (task.name == "findbugs" && state.failure) {
+        exec {
+            commandLine "open", "$project.buildDir/outputs/reports/findbugs.html"
+        }
+    }
+}

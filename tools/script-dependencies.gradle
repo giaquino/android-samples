@@ -1,0 +1,15 @@
+/**
+ * This plugin reports outdated dependencies in your project.
+ *
+ * Plugin Guide: https://github.com/ben-manes/gradle-versions-plugin
+ *
+ * Add the ff. in your root build.gradle inside dependencies {..}
+ *
+ * classpath 'com.github.ben-manes:gradle-versions-plugin:0.14.0'
+ */
+apply plugin: "com.github.ben-manes.versions"
+
+afterEvaluate {
+    dependencyUpdates.outputDir = file("${project.buildDir}/outputs/reports")
+    build.dependsOn("dependencyUpdates")
+}

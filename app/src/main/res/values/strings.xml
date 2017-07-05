@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Sample</string>
+
+  <string name="shortcut">Shortcut Sample</string>
+  <string name="shortcut_create">Create</string>
+  <string name="shortcut_delete">Delete</string>
+  <string name="shortcut_cancel">Cancel</string>
+  <string name="shortcut_delete_message_format">Delete %s?</string>
+  <string name="shortcut_create_shortcut">Create Shortcut</string>
+  <string name="shortcut_static_long_label">Sample Long Label</string>
+  <string name="shortcut_static_short_label">Sample Short Label</string>
+
+  <string name="sharing">Sharing Sample</string>
+  <string name="sharing_share">Share</string>
+
+  <string name="ex_state">State Sample</string>
+</resources>

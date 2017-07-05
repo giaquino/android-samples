@@ -1,0 +1,28 @@
+/**
+ * Configures lint in your project
+ *
+ * Note: if your using retrolambda see https://github.com/evant/android-retrolambda-lombok
+ */
+android {
+    lintOptions {
+        textOutput "stdout"
+        textReport true
+        abortOnError true
+        ignoreWarnings false
+        xmlReport false
+        lintConfig file("$project.rootDir/tools/rules-lint.xml")
+        htmlOutput file("$project.buildDir/outputs/reports/lint.html")
+    }
+}
+
+android.applicationVariants.all { variant ->
+    tasks.findByName("assemble${variant.name.capitalize()}").dependsOn("lint${variant.name.capitalize()}")
+}
+
+gradle.taskGraph.afterTask { task, state ->
+    if (task.name.startsWith("lint") && state.failure) {
+        exec {
+            commandLine "open", "$project.buildDir/outputs/reports/lint.html"
+        }
+    }
+}
