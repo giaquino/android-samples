@@ -27,13 +27,11 @@ import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.LinearLayoutManager.VERTICAL
 import com.giaquino.sample.R
 import com.giaquino.sample.R.layout
-import com.giaquino.sample.common.app.ViewModel
 import com.giaquino.sample.common.app.ViewModel.State
 import com.giaquino.sample.common.app.ViewModelActivity
 import com.giaquino.sample.common.extensions.toast
 import com.giaquino.sample.databinding.ShortcutActivityBinding
 import com.giaquino.sample.databinding.ShortcutCreateBinding
-import com.giaquino.sample.experiment.state.ExStateActivity
 import com.giaquino.sample.service.shortcut.ShortcutServiceFactory
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
@@ -76,8 +74,6 @@ class ShortcutActivity : ViewModelActivity<ShortcutViewModel, State>() {
       activity = this@ShortcutActivity
       viewModel = this@ShortcutActivity.viewModel
     }
-
-    startActivity(ExStateActivity.createIntent(this, "Gian"));
   }
 
   fun showCreateDialog() {

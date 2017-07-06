@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:onClick="@{() -> activity.onStartActivity()}"
-        android:text="Start Another Activity"
+        android:text="@string/ex_state_start_activity"
         style="@style/Widget.AppCompat.Button.Colored" />
   </FrameLayout>
 </layout>

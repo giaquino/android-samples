@@ -1,7 +1,7 @@
 <resources>
   <string name="app_name">Sample</string>
 
-  <string name="shortcut">Shortcut Sample</string>
+  <string name="shortcut">Sample Shortcut</string>
   <string name="shortcut_create">Create</string>
   <string name="shortcut_delete">Delete</string>
   <string name="shortcut_cancel">Cancel</string>
@@ -10,8 +10,10 @@
   <string name="shortcut_static_long_label">Sample Long Label</string>
   <string name="shortcut_static_short_label">Sample Short Label</string>
 
-  <string name="sharing">Sharing Sample</string>
+  <string name="sharing">Sample Sharing</string>
   <string name="sharing_share">Share</string>
 
-  <string name="ex_state">State Sample</string>
+  <string name="ex">Sample Experiments</string>
+  <string name="ex_state">State Experiments</string>
+  <string name="ex_state_start_activity">Start Another Activity</string>
 </resources>

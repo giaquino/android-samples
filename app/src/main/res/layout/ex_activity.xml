@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <data>
+    <variable
+        name="activity"
+        type="com.giaquino.sample.experiment.ExperimentActivity" />
+  </data>
+
+  <FrameLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <include
+        layout="@layout/include_toolbar"
+        android:id="@+id/include_toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?actionBarSize"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_horizontal_margin">
+
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:onClick="@{() -> activity.onStateExperimentClick()}"
+          android:text="@string/ex_state"
+          style="@style/Widget.AppCompat.Button.Colored" />
+    </LinearLayout>
+  </FrameLayout>
+</layout>

@@ -24,7 +24,6 @@ import com.giaquino.sample.R
 import com.giaquino.sample.common.app.ViewModelActivity
 import com.giaquino.sample.databinding.ExStateActivityBinding
 import com.giaquino.sample.experiment.state.ExStateActivityViewModel.ExStateActivityState
-import com.giaquino.sample.feature.sharing.SharingActivity
 
 class ExStateActivity : ViewModelActivity<ExStateActivityViewModel, ExStateActivityState>() {
 
@@ -62,6 +61,6 @@ class ExStateActivity : ViewModelActivity<ExStateActivityViewModel, ExStateActiv
   }
 
   fun onStartActivity() {
-    startActivity(Intent(this, SharingActivity::class.java))
+    startActivity(ExStateActivity.createIntent(this, viewModel.name + " foobar"))
   }
 }

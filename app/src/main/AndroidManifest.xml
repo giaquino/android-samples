@@ -34,8 +34,18 @@
       </intent-filter>
     </activity>
 
-    <activity android:name=".experiment.state.ExStateActivity"
-        android:label="@string/ex_state"/>
+    <activity
+        android:name=".experiment.ExperimentActivity"
+        android:label="@string/ex">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+
+    <activity
+        android:name=".experiment.state.ExStateActivity"
+        android:label="@string/ex_state" />
 
     <meta-data
         android:name="com.google.android.geo.API_KEY"
