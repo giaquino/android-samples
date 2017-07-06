@@ -38,13 +38,11 @@ abstract class ViewModelActivity<VIEW_MODEL : ViewModel, STATE : ViewModel.State
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
 
-    var state: STATE? = null
-
-    savedInstanceState?.let {
-      state = savedInstanceState.getParcelable(EXTRA_VIEW_MODEL_STATE)
+    if (savedInstanceState != null) {
+      viewModel = createViewModel(savedInstanceState.getParcelable(EXTRA_VIEW_MODEL_STATE))
+    } else {
+      viewModel = createViewModel(null)
     }
-
-    viewModel = createViewModel(state)
   }
 
   override fun onStart() {

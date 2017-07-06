@@ -48,7 +48,9 @@ class ShortcutViewModel(val shortcutService: ShortcutService) : ViewModel() {
     return@fromCallable url
   }
 
-  fun deleteShortcut(shortcut: ShortcutInfo) = shortcutService.removeShortcut(shortcut).let {
-    if (it) refreshShortcuts()
+  fun deleteShortcut(shortcut: ShortcutInfo) {
+    if (shortcutService.removeShortcut(shortcut)) {
+      refreshShortcuts()
+    }
   }
 }
