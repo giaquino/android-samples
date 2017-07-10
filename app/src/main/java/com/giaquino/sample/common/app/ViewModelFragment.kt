@@ -18,6 +18,7 @@ package com.giaquino.sample.common.app
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import timber.log.Timber
 
 abstract class ViewModelFragment<VIEW_MODEL : ViewModel, STATE : ViewModel.State> : Fragment() {
 
@@ -42,6 +43,12 @@ abstract class ViewModelFragment<VIEW_MODEL : ViewModel, STATE : ViewModel.State
   override fun onSaveInstanceState(outState: Bundle?) {
     super.onSaveInstanceState(outState)
     outState?.putParcelable(EXTRA_VIEW_MODEL_STATE, viewModel.state)
+    Timber.d("Called onSaveInstanceState")
+  }
+
+  override fun onViewStateRestored(savedInstanceState: Bundle?) {
+    super.onViewStateRestored(savedInstanceState)
+    Timber.d("Called onViewStateRestored")
   }
 
   override fun onStart() {

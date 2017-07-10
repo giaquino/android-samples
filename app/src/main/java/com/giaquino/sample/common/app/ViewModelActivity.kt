@@ -18,6 +18,7 @@ package com.giaquino.sample.common.app
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import timber.log.Timber
 
 abstract class ViewModelActivity<VIEW_MODEL : ViewModel, STATE : ViewModel.State>
   : AppCompatActivity() {
@@ -32,7 +33,13 @@ abstract class ViewModelActivity<VIEW_MODEL : ViewModel, STATE : ViewModel.State
 
   override fun onSaveInstanceState(outState: Bundle) {
     super.onSaveInstanceState(outState)
+    Timber.d("Called onSaveInstanceState")
     outState.putParcelable(EXTRA_VIEW_MODEL_STATE, viewModel.state)
+  }
+
+  override fun onRestoreInstanceState(savedInstanceState: Bundle?) {
+    super.onRestoreInstanceState(savedInstanceState)
+    Timber.d("Called onRestoreInstanceState")
   }
 
   override fun onCreate(savedInstanceState: Bundle?) {
