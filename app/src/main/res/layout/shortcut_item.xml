@@ -21,12 +21,16 @@
     <variable
         name="shortcut"
         type="android.content.pm.ShortcutInfo" />
+    <variable
+        name="shortcutViewHolder"
+        type="com.giaquino.sample.feature.shortcut.ShortcutAdapter.ShortcutViewHolder"/>
   </data>
 
   <FrameLayout
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:minHeight="?android:listPreferredItemHeight">
+      android:minHeight="?android:listPreferredItemHeight"
+      android:onClick="@{() -> shortcutViewHolder.onClickShortcut(shortcut)}">
 
     <TextView
         android:layout_width="wrap_content"

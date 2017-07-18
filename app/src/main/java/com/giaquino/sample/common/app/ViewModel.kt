@@ -17,42 +17,31 @@
 package com.giaquino.sample.common.app
 
 import android.os.Parcel
-import android.os.Parcelable
-import android.support.annotation.CallSuper
+import com.giaquino.sample.common.extensions.KParcelable
+import com.giaquino.sample.common.extensions.parcelableCreator
 
 open class ViewModel {
 
   open fun onStart() {}
-
   open fun onResume() {}
-
   open fun onPause() {}
-
   open fun onStop() {}
-
   open fun onDestroy() {}
-
   open val state get() = State(this)
 
   /**
    * Base class responsible for representing the current state for the ViewModel.
    */
-  open class State : Parcelable {
+  open class State : KParcelable {
 
     companion object {
-      @JvmField val CREATOR = object : Parcelable.Creator<State> {
-        override fun createFromParcel(source: Parcel) = State(source)
-        override fun newArray(size: Int): Array<State?> = arrayOfNulls(size)
-      }
+      @JvmField val CREATOR = parcelableCreator(::State)
     }
 
     constructor(viewModel: ViewModel)
-
     constructor (source: Parcel)
 
-    override fun describeContents() = 0
-
-    @CallSuper override fun writeToParcel(dest: Parcel, flags: Int) {
+    override fun writeToParcel(dest: Parcel, flags: Int) {
     }
   }
 }

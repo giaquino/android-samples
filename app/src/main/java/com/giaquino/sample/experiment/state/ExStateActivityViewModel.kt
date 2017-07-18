@@ -17,8 +17,8 @@
 package com.giaquino.sample.experiment.state
 
 import android.os.Parcel
-import android.os.Parcelable.Creator
 import com.giaquino.sample.common.app.ViewModel
+import com.giaquino.sample.common.extensions.parcelableCreator
 import timber.log.Timber
 
 class ExStateActivityViewModel : ViewModel {
@@ -42,9 +42,8 @@ class ExStateActivityViewModel : ViewModel {
 
   class ExStateActivityState : State {
 
-    companion object CREATOR : Creator<ExStateActivityState> {
-      override fun createFromParcel(parcel: Parcel) = ExStateActivityState(parcel)
-      override fun newArray(size: Int) = arrayOfNulls<ExStateActivityState>(size)
+    companion object {
+      @JvmStatic val CREATOR = parcelableCreator(::ExStateActivityState)
     }
 
     var name: String
@@ -59,11 +58,8 @@ class ExStateActivityViewModel : ViewModel {
       Timber.d("Name restored from parcel : %s", name)
     }
 
-    override fun writeToParcel(dest: Parcel, flags: Int) {
-      super.writeToParcel(dest, flags)
-      dest.writeString(name)
+    override fun writeToParcel(dest: Parcel, flags: Int) = with(dest) {
+      writeString(name)
     }
-
-    override fun describeContents() = 0
   }
 }

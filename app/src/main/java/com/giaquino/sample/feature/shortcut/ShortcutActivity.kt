@@ -29,30 +29,37 @@ import com.giaquino.sample.R
 import com.giaquino.sample.R.layout
 import com.giaquino.sample.common.app.ViewModel.State
 import com.giaquino.sample.common.app.ViewModelActivity
+import com.giaquino.sample.common.extensions.asyncSubscribeOnMain
 import com.giaquino.sample.common.extensions.toast
 import com.giaquino.sample.databinding.ShortcutActivityBinding
 import com.giaquino.sample.databinding.ShortcutCreateBinding
 import com.giaquino.sample.service.shortcut.ShortcutServiceFactory
 import io.reactivex.android.schedulers.AndroidSchedulers
-import io.reactivex.schedulers.Schedulers
 import kotlin.LazyThreadSafetyMode.NONE
 
+/**
+ * This activity displays the user's registered shortcuts and give them
+ * ability to add or delete shortcuts.
+ */
 class ShortcutActivity : ViewModelActivity<ShortcutViewModel, State>() {
 
-  private val createLayout: ShortcutCreateBinding by lazy(NONE) {
+  /**
+   * layout used as a custom view for bottom sheet dialog for creating shortcut
+   */
+  private val createShortcutBinding: ShortcutCreateBinding by lazy(NONE) {
     ShortcutCreateBinding.inflate(layoutInflater).apply {
       buttonCreate.setOnClickListener { createShortcut(input.text.toString()) }
     }
   }
 
-  private val createDialog: BottomSheetDialog by lazy(NONE) {
+  private val createShortcutBottomSheet: BottomSheetDialog by lazy(NONE) {
     BottomSheetDialog(this).apply {
-      setOnDismissListener { createLayout.input.setText("") }
-      setContentView(createLayout.root)
+      setOnDismissListener { createShortcutBinding.input.setText("") }
+      setContentView(createShortcutBinding.root)
     }
   }
 
-  private lateinit var shortcutLayout: ShortcutActivityBinding
+  private lateinit var shortcutBinding: ShortcutActivityBinding
   private lateinit var adapter: ShortcutAdapter
 
   override fun createViewModel(state: State?)
@@ -66,8 +73,8 @@ class ShortcutActivity : ViewModelActivity<ShortcutViewModel, State>() {
       adapter.setShortcuts(it)
     }
 
-    shortcutLayout = DataBindingUtil.setContentView(this, layout.shortcut_activity)
-    shortcutLayout.apply {
+    shortcutBinding = DataBindingUtil.setContentView(this, layout.shortcut_activity)
+    shortcutBinding.apply {
       list.adapter = adapter
       list.layoutManager = LinearLayoutManager(this@ShortcutActivity, VERTICAL, false)
       setSupportActionBar(includeToolbar.toolbar)
@@ -77,14 +84,13 @@ class ShortcutActivity : ViewModelActivity<ShortcutViewModel, State>() {
   }
 
   fun showCreateDialog() {
-    createDialog.show()
+    createShortcutBottomSheet.show()
   }
 
   fun createShortcut(input: String) {
-    viewModel.createShortcut(input)
-        .subscribeOn(Schedulers.io())
-        .observeOn(AndroidSchedulers.mainThread())
-        .subscribe({ url -> toast(url) }, { error -> toast(error.message) })
+    viewModel.createShortcut(input).asyncSubscribeOnMain(
+        { url -> toast(url) },
+        { error -> toast(error.message) })
   }
 
   fun deleteShortcut(shortcut: ShortcutInfo): Unit {

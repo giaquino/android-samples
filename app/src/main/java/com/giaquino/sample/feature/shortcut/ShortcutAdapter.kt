@@ -23,28 +23,24 @@ import android.support.v7.util.DiffUtil
 import android.support.v7.util.DiffUtil.DiffResult
 import android.support.v7.widget.RecyclerView
 import android.support.v7.widget.RecyclerView.ViewHolder
-import android.view.View
 import android.view.ViewGroup
 import com.giaquino.sample.R
 import com.giaquino.sample.common.extensions.inflate
 import com.giaquino.sample.databinding.ShortcutItemBinding
 import com.giaquino.sample.feature.shortcut.ShortcutAdapter.ShortcutViewHolder
 
-class ShortcutAdapter(
-    val callback: (shortcut: ShortcutInfo) -> Unit
-) : RecyclerView.Adapter<ShortcutViewHolder>() {
+class ShortcutAdapter(val callback: (ShortcutInfo) -> Unit)
+  : RecyclerView.Adapter<ShortcutViewHolder>() {
 
   private val shortcuts = mutableListOf<ShortcutInfo>()
 
   override fun onCreateViewHolder(parent: ViewGroup, viewType: Int)
-      = ShortcutViewHolder(inflate(parent, R.layout.shortcut_item))
+      = ShortcutViewHolder(parent, callback)
 
-  override fun onBindViewHolder(holder: ShortcutViewHolder, position: Int) {
-    holder.binding.apply {
-      shortcut = shortcuts[position]
-      executePendingBindings()
-      root.setOnClickListener { callback(shortcut) }
-    }
+  override fun onBindViewHolder(holder: ShortcutViewHolder, position: Int) = holder.binding.run {
+    shortcut = shortcuts[position]
+    shortcutViewHolder = holder
+    executePendingBindings()
   }
 
   override fun getItemCount() = shortcuts.size
@@ -59,7 +55,13 @@ class ShortcutAdapter(
     result?.dispatchUpdatesTo(this) ?: notifyDataSetChanged()
   }
 
-  class ShortcutViewHolder(view: View) : ViewHolder(view) {
-    val binding = ShortcutItemBinding.bind(view)!!
+  class ShortcutViewHolder(parent: ViewGroup, val callback: (ShortcutInfo) -> Unit)
+    : ViewHolder(inflate(parent, R.layout.shortcut_item, parent)) {
+
+    val binding = ShortcutItemBinding.bind(itemView)!!
+
+    fun onClickShortcut(shortcut: ShortcutInfo) {
+      callback.invoke(shortcut)
+    }
   }
 }

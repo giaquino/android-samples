@@ -32,10 +32,7 @@ class ExStateActivity : ViewModelActivity<ExStateActivityViewModel, ExStateActiv
     const val EXTRA_NAME = "com.giaquino.sample.EXTRA_NAME"
 
     fun createIntent(context: Context, name: String): Intent {
-      return Intent(context, ExStateActivity::class.java)
-          .apply {
-            putExtra(EXTRA_NAME, name)
-          }
+      return Intent(context, ExStateActivity::class.java).putExtra(EXTRA_NAME, name)
     }
   }
 
