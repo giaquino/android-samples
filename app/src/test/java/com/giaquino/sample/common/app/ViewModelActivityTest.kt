@@ -86,12 +86,12 @@ class ViewModelActivityTest {
     assertThat(controller.get().fakeViewModel.foobar).isEqualTo(14)
   }
 
-  private open class FakeViewModelActivity : ViewModelActivity<FakeViewModel>() {
+  private open class FakeViewModelActivity : ViewModelActivity<FakeViewModel, FakeViewModelState>() {
 
     lateinit var fakeViewModel: FakeViewModel
 
-    override fun createViewModel(state: ViewModel.State?): FakeViewModel {
-      fakeViewModel = Mockito.spy(FakeViewModel(state as FakeViewModelState?))
+    override fun createViewModel(state: FakeViewModelState?): FakeViewModel {
+      fakeViewModel = Mockito.spy(FakeViewModel(state))
       return fakeViewModel
     }
   }

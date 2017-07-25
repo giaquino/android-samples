@@ -32,6 +32,7 @@ inline fun <T> Parcel.writeNullable(value: T?, writer: (T) -> Unit) {
     writeInt(0)
   }
 }
+
 fun Parcel.readBoolean() = readInt() != 0
 
 fun Parcel.writeBoolean(value: Boolean) = writeInt(if (value) 1 else 0)

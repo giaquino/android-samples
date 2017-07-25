@@ -1,11 +1,12 @@
 package com.giaquino.sample.experiment
 
+import android.content.Intent
 import android.databinding.DataBindingUtil
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.giaquino.sample.R
 import com.giaquino.sample.databinding.ExActivityBinding
-import com.giaquino.sample.experiment.state.ExStateActivity
+import com.giaquino.sample.feature.novel.NovelActivity
 
 class ExperimentActivity : AppCompatActivity() {
 
@@ -19,6 +20,6 @@ class ExperimentActivity : AppCompatActivity() {
   }
 
   fun onStateExperimentClick() {
-    startActivity(ExStateActivity.createIntent(this, "foobar"))
+    startActivity(Intent(this, NovelActivity::class.java))
   }
 }

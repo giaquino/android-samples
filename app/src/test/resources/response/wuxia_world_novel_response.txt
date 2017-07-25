@@ -1,0 +1,1467 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" novel="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.wuxiaworld.com/xmlrpc.php">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/wp-novel/themes/wuxia-world/style-nightmode.css?v=4">
+<script type="text/javascript" src="/wp-novel/themes/wuxia-world/js/libs/device-detection.js?v=1"></script>
+<script type="text/javascript" src="/wp-novel/themes/wuxia-world/js/libs/storage.js?v=2"></script>
+<script type="text/javascript" src="/wp-novel/themes/wuxia-world/js/libs/utils.js?v=2"></script>
+<script type="text/javascript" src="/wp-novel/themes/wuxia-world/js/polyfill/console.js?v=1"></script>
+
+<meta name="robots" novel="noodp,noydir"/>
+<meta name="description" novel="Previous Chapter Next Chapter Chapter 1 – Yun Che, Xiao Che Yun Che’s consciousness gradually awakened. What’s going on… How is it that I have not died? I vividly remember that I jumped off Cloud&#039;s End Cliff, how can I still be alive! Somehow my body is not in pain… And I do not even feel..."/>
+<meta property="og:site_name" novel="Wuxiaworld"/>
+<meta property="og:type" novel="article"/>
+<meta property="og:title" novel="ATG &#8211; Chapter 1"/>
+<meta property="og:url" novel="http://www.wuxiaworld.com/atg-index/atg-chapter-1/"/>
+<meta property="og:description" novel="Previous Chapter Next Chapter Chapter 1 – Yun Che, Xiao Che Yun Che’s consciousness gradually awakened. What’s going on… How is it that I have not died? I vividly remember that I jumped off Cloud&#039;s End Cliff, how can I still be alive! Somehow my body is not in pain… And I do not even feel..."/>
+<meta property="og:locale" novel="en_US"/>
+<meta property="og:updated_time" novel="2017-03-26T21:07:52+00:00"/>
+<meta property="article:published_time" novel="2015-06-13T01:22:17+00:00"/>
+<meta property="article:modified_time" novel="2017-03-26T21:07:52+00:00"/>
+<meta property="article:author" novel="http://www.wuxiaworld.com/author/alyschu/"/>
+<meta property="article:publisher" novel="http://www.wuxiaworld.com/"/>
+<meta name="twitter:card" novel="summary"/>
+<meta name="twitter:title" novel="ATG &#8211; Chapter 1"/>
+<meta name="twitter:description" novel="Previous Chapter Next Chapter Chapter 1 – Yun Che, Xiao Che Yun Che’s consciousness gradually awakened. What’s going on… How is it that I have not died? I vividly remember that I jumped off Cloud&#039;s End Cliff, how can I still be alive! Somehow my body is not in pain… And I do not even feel..."/>
+<link rel="publisher" type="text/html" title="Wuxiaworld" href="http://www.wuxiaworld.com/"/>
+<link rel="author" type="text/html" title="alyschu" href="http://www.wuxiaworld.com/author/alyschu/"/>
+
+<title>ATG &#8211; Chapter 1 &#8211; Wuxiaworld</title>
+<link rel='dns-prefetch' href='//www.wuxiaworld.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="Wuxiaworld &raquo; Feed" href="http://www.wuxiaworld.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Wuxiaworld &raquo; Comments Feed" href="http://www.wuxiaworld.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Wuxiaworld &raquo; ATG &#8211; Chapter 1 Comments Feed" href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.wuxiaworld.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='bbspoiler-css' href='http://www.wuxiaworld.com/wp-novel/plugins/bbspoiler/inc/bbspoiler.css?ver=20170319' type='text/css' media='all'/>
+<link rel='stylesheet' id='gglcptch-css' href='http://www.wuxiaworld.com/wp-novel/plugins/google-captcha/css/gglcptch.css?ver=1.30' type='text/css' media='all'/>
+<link rel='stylesheet' id='collapseomatic-css-css' href='http://www.wuxiaworld.com/wp-novel/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all'/>
+<link rel='stylesheet' id='wuxia-world-style-css' href='http://www.wuxiaworld.com/wp-novel/themes/wuxia-world/style.css?ver=20170319' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://www.wuxiaworld.com/wp-novel/plugins/jetpack/css/jetpack.css?ver=5.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-novel/plugins/bbspoiler/inc/bbspoiler.js?ver=20160823'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-novel/plugins/fd-footnotes/fdfootnotes.js?ver=1.34'></script>
+<link rel='https://api.w.org/' href='http://www.wuxiaworld.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wuxiaworld.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wuxiaworld.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" novel="WordPress 4.8"/>
+<link rel="canonical" href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/"/>
+<link rel='shortlink' href='http://www.wuxiaworld.com/?p=13943'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.wuxiaworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.wuxiaworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F&#038;format=xml"/>
+<style type='text/css'>.ai-viewport-3{display:none!important;}.ai-viewport-2{display:none!important;}.ai-viewport-1{display:inherit!important;}.ai-viewport-0{display:none!important;}@media (min-width: 768px) and (max-width: 979px) {.ai-viewport-1{display:none!important;}.ai-viewport-2{display:inherit!important;}}@media (max-width: 767px) {.ai-viewport-1{display:none!important;}.ai-viewport-3{display:inherit!important;}}</style>
+
+<script>
+            var analyticsFileTypes = [''];
+            var analyticsSnippet = 'disabled';
+            var analyticsEventTracking = 'enabled';
+
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ww_ga');
+
+            ww_ga('create', 'UA-57967886-1', 'auto');
+
+            var authorDimension = 'UNKNOWN_AUTHOR';
+            try {
+                authorDimension = document.querySelector('head > link[rel=author]').title
+            } catch (e) {
+               // Just fail silently
+            }
+
+            ww_ga('send', 'pageview', {
+                'dimension1': 'www',
+                'dimension2': authorDimension
+            });
+        </script>
+
+
+<script type='text/javascript' src='http://d3f4u3khr0ycep.cloudfront.net/m2hb.wuxiaworld.chain.js?v=20160719'></script>
+<script type="text/javascript" src="/wp-novel/themes/wuxia-world/js/thirdp/forensiq.js?v=20170329"></script>
+<script type="text/javascript" src="http://cdn.pubguru.com/pg.wuxiaworld.js"></script>
+
+
+<script type="text/javascript">
+        _atrk_opts = {atrk_acct: "Q6vrl1aQpu23mh", domain: "wuxiaworld.com", dynamic: true};
+        (function () {
+            var as = document.createElement('script');
+            as.type = 'text/javascript';
+            as.async = true;
+            as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(as, s);
+        })();
+    </script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Q6vrl1aQpu23mh" style="display:none" height="1" width="1" alt=""/></noscript>
+
+
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push([{
+qacct:"p-c54G_RnM5lvok",
+labels:"books"
+},
+{
+qacct:"p-uAR5Y8DmNNXbR",
+}]);
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-c54G_RnM5lvok.gif?labels=books" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css" id="custom-background-css">body.custom-background{background-image:url("http://www.wuxiaworld.com/wp-novel/uploads/2015/06/background-dragonv2.jpg");background-position:center center;background-size:cover;background-repeat:no-repeat;background-attachment:fixed;}</style>
+<style type="text/css" id="wp-custom-css"></style>
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" novel="Wuxiaworld">
+<meta name="application-name" novel="Wuxiaworld">
+<meta name="msapplication-TileColor" novel="#b91d47">
+<meta name="msapplication-TileImage" novel="/mstile-144x144.png">
+<meta name="theme-color" novel="#ffffff">
+<script type="text/javascript">
+		function enableNightmode() {
+			jQuery('html').addClass('nightmode');
+			localStorage.setItem('nightmode', 'y');
+		}
+
+		function disableNightmode() {
+			jQuery('html').removeClass('nightmode');
+			localStorage.removeItem('nightmode');
+		}
+
+		if (isLocalStorageSupported()) {
+			if (localStorage.getItem('nightmode') !== null) {
+				jQuery('html').addClass('nightmode');
+			}
+		}
+	</script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {  "popup": {  "background": "#000" }, "button": { "background": "#f1d600" } }, "theme": "edgeless",
+      "novel": { "message": "A new EU cookie law requires us to have this show up. Please review Wuxiaworld's terms of service and privacy policy, then click 'I agree' to indicate acceptance.", "href": "http://www.wuxiaworld.com/privacy-policy/", "dismiss": "I agree"} })});
+    </script>
+
+</head>
+<body class="page-template-default page page-id-13943 page-child parent-pageid-13933 custom-background group-blog">
+<a class="skip-link screen-reader-text" href="#novel">
+Skip to novel </a>
+<header id="masthead" class="site-header" role="banner">
+<div class="site-branding">
+<h1 class="site-title">
+<a href="http://www.wuxiaworld.com/" rel="home">Wuxiaworld</a>
+</h1>
+<h2 class="site-description">Chinese fantasy novels and light novels!</h2>
+</div>
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<div class="menu-home-menu-container"><ul id="menu-home-menu" class="menu"><li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-27"><a href="http://www.wuxiaworld.com/">Home</a></li>
+<li id="menu-item-12207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12207"><a href="#">Completed</a>
+<ul class="sub-menu">
+<li id="menu-item-92019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92019"><a href="http://www.wuxiaworld.com/absolute-choice-index/">Absolute Choice (halted)</a></li>
+<li id="menu-item-114945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114945"><a href="http://www.wuxiaworld.com/ancientgodlymonarch-index/">Ancient Godly Monarch (halted)</a></li>
+<li id="menu-item-11483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11483"><a href="http://www.wuxiaworld.com/7-killers/">7 Killers (七杀手)</a></li>
+<li id="menu-item-31494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31494"><a href="http://www.wuxiaworld.com/col-index/">Child of Light (光之子)</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.wuxiaworld.com/cdindex-html/">Coiling Dragon (盘龙)</a></li>
+<li id="menu-item-11479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11479"><a href="http://www.wuxiaworld.com/dkwss/">Dragon King With Seven Stars (七星龙王)</a></li>
+<li id="menu-item-116527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116527"><a href="http://www.wuxiaworld.com/godofcrime-index/">God of Crime</a></li>
+<li id="menu-item-11488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11488"><a href="http://www.wuxiaworld.com/hsnt-index/">Heroes Shed No Tears (英雄不流泪)</a></li>
+<li id="menu-item-11491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11491"><a href="http://www.wuxiaworld.com/tymyd-index/">Horizon, Bright Moon, Sabre (天涯明月刀)</a></li>
+<li id="menu-item-11248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11248"><a href="http://www.wuxiaworld.com/issth-index/">I Shall Seal the Heavens (我欲封天)</a></li>
+<li id="menu-item-112842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112842"><a href="http://www.wuxiaworld.com/iras-index/">I&#8217;m Really a Superstar (halted)</a></li>
+<li id="menu-item-5718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5718"><a href="http://www.wuxiaworld.com/st-index/">Stellar Transformations (星辰变)</a></li>
+<li id="menu-item-112841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112841"><a href="http://www.wuxiaworld.com/truemartialworld-index/">True Martial World (halted)</a></li>
+</ul>
+</li>
+<li id="menu-item-2165" class="three-col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2165"><a href="#">Chinese</a>
+<ul class="sub-menu">
+<li id="menu-item-114947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114947"><a href="http://www.wuxiaworld.com/rmji-index/">A Mortal&#8217;s Journey to Immortality</a></li>
+<li id="menu-item-90952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90952"><a href="http://www.wuxiaworld.com/awe-index/">A Will Eternal (一念永恒)</a></li>
+<li id="menu-item-14159" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-14159"><a href="http://www.wuxiaworld.com/atg-index/">Against the Gods (逆天邪神)</a></li>
+<li id="menu-item-114946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114946"><a href="http://www.wuxiaworld.com/ast-index/">Ancient Strengthening Technique</a></li>
+<li id="menu-item-8399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8399"><a href="http://www.wuxiaworld.com/btth-index/">Battle Through the Heavens (斗破苍穹)</a></li>
+<li id="menu-item-123177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123177"><a href="http://www.wuxiaworld.com/tcosp-index/">Charm of Soul Pets (宠魅)</a></li>
+<li id="menu-item-23515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23515"><a href="http://www.wuxiaworld.com/desolate-era-index/">Desolate Era (莽荒纪)</a></li>
+<li id="menu-item-82632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82632"><a href="http://www.wuxiaworld.com/emperor-index/">Emperor&#8217;s Domination (帝霸)</a></li>
+<li id="menu-item-57624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57624"><a href="http://www.wuxiaworld.com/gor-index/">Gate of Revelation (天启之门)</a></li>
+<li id="menu-item-31495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31495"><a href="http://www.wuxiaworld.com/hjc-index/">Heavenly Jewel Change (天珠变)</a></li>
+<li id="menu-item-135116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135116"><a href="http://www.wuxiaworld.com/invincible-index/">Invincible (无敌天下)</a></li>
+<li id="menu-item-89751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89751"><a href="http://www.wuxiaworld.com/ldk-index/">Legend of the Dragon King (龙王传说)</a></li>
+<li id="menu-item-159782" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159782"><a href="http://www.wuxiaworld.com/loar-index">Lord of All Realms (万域之王)</a></li>
+<li id="menu-item-12245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12245"><a href="http://www.wuxiaworld.com/mga-index/">Martial God Asura (修罗武神)</a></li>
+<li id="menu-item-110656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110656"><a href="http://www.wuxiaworld.com/martialworld-index/">Martial World (武极天下)</a></li>
+<li id="menu-item-132602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132602"><a href="http://www.wuxiaworld.com/men-index/">Monarch of Evernight (永夜君王)</a></li>
+<li id="menu-item-37956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37956"><a href="http://www.wuxiaworld.com/pw-index/">Perfect World (完美世界)</a></li>
+<li id="menu-item-76434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76434"><a href="http://www.wuxiaworld.com/rebirth-index/">Rebirth of the Thief</a></li>
+<li id="menu-item-42559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42559"><a href="http://www.wuxiaworld.com/renegade-index/">Renegade Immortal (仙逆)</a></li>
+<li id="menu-item-6617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6617"><a href="http://www.wuxiaworld.com/sfl-index/">Skyfire Avenue (天火大道)</a></li>
+<li id="menu-item-48668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48668"><a href="http://www.wuxiaworld.com/sotr-index/">Sovereign of the Three Realms (三界独尊)</a></li>
+<li id="menu-item-71102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71102"><a href="http://www.wuxiaworld.com/sr-index/">Spirit Realm (灵域)</a></li>
+<li id="menu-item-114948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-114948"><a href="http://www.wuxiaworld.com/spiritvessel-index/">Spirit Vessel (灵舟)</a></li>
+<li id="menu-item-29677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29677"><a href="http://www.wuxiaworld.com/tdg-index/">Tales of Demons &#038; Gods (妖神记)</a></li>
+<li id="menu-item-59622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59622"><a href="http://www.wuxiaworld.com/ti-index/">Terror Infinity (无限恐怖)</a></li>
+<li id="menu-item-157184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157184"><a href="http://www.wuxiaworld.com/godsfall-index/">The Godsfall Chronicles (陨神记)</a></li>
+<li id="menu-item-117563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117563"><a href="http://www.wuxiaworld.com/tgs-index/">The Grandmaster Strategist (一代军师)</a></li>
+<li id="menu-item-25104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25104"><a href="http://www.wuxiaworld.com/tgr-index/">The Great Ruler (大主宰)</a></li>
+<li id="menu-item-108185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108185"><a href="http://www.wuxiaworld.com/uts-index/">Unrivaled Tang Sect (绝世唐门)</a></li>
+<li id="menu-item-41660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41660"><a href="http://www.wuxiaworld.com/usaw-index/">Upgrade Specialist in Another World</a></li>
+<li id="menu-item-64142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64142"><a href="http://www.wuxiaworld.com/wmw-index/">Warlock of the Magus World (巫界术士)</a></li>
+<li id="menu-item-33907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33907"><a href="http://www.wuxiaworld.com/wdqk-index/">Wu Dong Qian Kun (武动乾坤)</a></li>
+</ul>
+</li>
+<li id="menu-item-116520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-116520"><a href="#">Korean</a>
+<ul class="sub-menu">
+<li id="menu-item-117940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117940"><a href="http://www.wuxiaworld.com/atd-index/">Acquiring Talent in a Dungeon</a></li>
+<li id="menu-item-117941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117941"><a href="http://www.wuxiaworld.com/breakers-index/">Breakers</a></li>
+<li id="menu-item-116528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116528"><a href="http://www.wuxiaworld.com/dragonmakenwar-index">Dragon Maken War</a></li>
+<li id="menu-item-116525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116525"><a href="http://www.wuxiaworld.com/emperorofsoloplay-index/">Emperor of Solo Play</a></li>
+<li id="menu-item-153868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153868"><a href="http://www.wuxiaworld.com/icds-index/">Infinite Competitive Dungeon Society</a></li>
+<li id="menu-item-137733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137733"><a href="http://www.wuxiaworld.com/isbbtw-index/">I’m Sorry For Being Born In This World!</a></li>
+<li id="menu-item-150371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150371"><a href="http://www.wuxiaworld.com/pto-index/">Praise the Orc!</a></li>
+<li id="menu-item-116523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116523"><a href="http://www.wuxiaworld.com/ssn-index/">Seoul Station&#8217;s Necromancer</a></li>
+<li id="menu-item-150372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150372"><a href="http://www.wuxiaworld.com/bem-index/">The Book Eating Magician</a></li>
+</ul>
+</li>
+<li id="menu-item-41669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41669"><a href="#">About Us</a>
+<ul class="sub-menu">
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.wuxiaworld.com/about-wuxiaworld/">About Us</a></li>
+<li id="menu-item-41668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41668"><a href="http://www.wuxiaworld.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://www.wuxiaworld.com/about-donations/">Schedule</a></li>
+<li id="menu-item-54976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54976"><a href="http://www.wuxiaworld.com/terms-of-service/">Terms of Service</a></li>
+</ul>
+</li>
+<li id="menu-item-43860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43860"><a href="#">Resources</a>
+<ul class="sub-menu">
+<li id="menu-item-5487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5487"><a href="http://www.wuxiaworld.com/faq/">General FAQ</a></li>
+<li id="menu-item-60316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60316"><a href="http://www.wuxiaworld.com/what-dao-heck-a-very-basic-primer-to-the-dao/">Basic Dao Primer</a></li>
+<li id="menu-item-43861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43861"><a href="http://www.wuxiaworld.com/deathblades-learning-chinese-faq/">Deathblade&#8217;s Learning Chinese FAQ</a></li>
+<li id="menu-item-88160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88160"><a href="http://www.wuxiaworld.com/general-glossary-of-terms/">General Glossary of Terms</a></li>
+<li id="menu-item-88161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88161"><a href="http://www.wuxiaworld.com/chinese-idiom-glossary/">Chinese Idiom Glossary</a></li>
+<li id="menu-item-88162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88162"><a href="http://www.wuxiaworld.com/wuxiaxianxia-terms-of-address/">Wuxia-Xianxia Terms of Address</a></li>
+<li id="menu-item-88163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88163"><a href="http://www.wuxiaworld.com/cores-in-chinese-cultivation-novels/">“Cores” in Chinese Cultivation Novels</a></li>
+<li id="menu-item-69624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69624"><a href="http://www.wuxiaworld.com/author-spotlight/tang-jia-san-shao/">TJSS Biography</a></li>
+<li id="menu-item-151083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151083"><a href="http://www.wuxiaworld.com/author-spotlight/er-gen/">Ergen Biography</a></li>
+<li id="menu-item-106331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106331"><a href="http://www.wuxiaworld.com/author-spotlight/i-eat-tomatoes/">IET Biography</a></li>
+<li id="menu-item-60315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60315"><a href="http://www.wuxiaworld.com/category/translator-thoughts/">Translator Thoughts Series</a></li>
+</ul>
+</li>
+<li id="menu-item-9369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9369"><a href="http://forum.wuxiaworld.com">Forums</a></li>
+<li id="menu-item-34926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34926"><a href="http://wiki.wuxiaworld.com">Wiki</a></li>
+</ul></div>
+
+</nav>
+<div id="subArea">
+<div id="subMain">
+<form class="search-form" role="search" method="get" action="">
+<input class="search-field" placeholder="Search …" value="" name="s" type="search">
+<input class="search-submit" value=">" type="submit">
+</form>
+<div id="themeButtons">
+<button class="nightButton" onclick="enableNightmode()">Enable Night Mode</button>
+<button class="dayButton" onclick="disableNightmode()">Disable Night Mode</button>
+</div>
+</div>
+</div>
+</header>
+<div id="page" class="hfeed site">
+<div id="novel" class="site-novel">
+<div role="complementary">
+<aside id="ai_widget-30" class="horizontal-wide ai_widget"><div class='code-block code-block-10' style='text-align: center; margin: 8px auto;'>
+
+<div id='div-gpt-ad-1455633425297-1' class="wuxiaworld_ATF1" style='margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-1').parentNode.parentNode.style.padding = '0';
+    if (isMobileDevice()) {
+        var container = document.getElementById('div-gpt-ad-1455633425297-1');
+        container.style.height = '250px';
+        container.style.width = '300px';
+        container.style.margin = 'auto auto';
+    }
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-1'); });
+</script>
+</div>
+<p style="margin:0; font-size: 10px;">Advertisement</p></div>
+</aside></div>
+<div id="primary" class="novel-area">
+<main id="main" class="site-main" role="main">
+<article id="post-13943" class="post-13943 page type-page status-publish hentry">
+<header class="entry-header">
+<h1 class="entry-title">ATG &#8211; Chapter 1</h1> </header>
+<div class="entry-novel">
+
+
+<div itemscope itemtype="http://schema.org/Article">
+
+<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+<meta itemprop="name" novel="Wuxiaworld"/>
+<meta itemprop="description" novel="Fantasy novels and light novels, some original, some translated from Chinese. Themes of heroism, of valor, of ascending to Immortality, of combat, of magic, of Eastern mythology and legends. Updated with awesome new novel daily."/>
+<meta itemprop="url" novel="http://www.wuxiaworld.com/"/>
+</span>
+
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<meta itemprop="name" novel="alyschu"/>
+
+<span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+<meta itemprop="url" novel="http://0.gravatar.com/avatar/6eefd70e9c012ffd00320f801e117b4a?s=128&#038;d=mm&#038;r=pg"/>
+<meta itemprop="contentUrl" novel="http://0.gravatar.com/avatar/6eefd70e9c012ffd00320f801e117b4a?s=128&#038;d=mm&#038;r=pg"/>
+<meta itemprop="width" novel="128"/>
+<meta itemprop="height" novel="128"/>
+</span>
+<meta itemprop="url" novel="http://www.wuxiaworld.com/author/alyschu/"/>
+</span>
+<meta itemprop="url" novel="http://www.wuxiaworld.com/atg-index/atg-chapter-1/"/>
+<meta itemprop="mainEntityOfPage" novel="http://www.wuxiaworld.com/atg-index/atg-chapter-1/"/>
+<meta itemprop="datePublished" novel="2015-06-13T01:22:17+00:00"/>
+<meta itemprop="dateModified" novel="2017-03-26T21:07:52+00:00"/>
+<meta itemprop="copyrightYear" novel="2015"/>
+<meta itemprop="inLanguage" novel="en_US"/>
+<meta itemprop="name" novel="ATG &#8211; Chapter 1"/>
+<meta itemprop="headline" novel="ATG &#8211; Chapter 1"/>
+<meta itemprop="description" novel="Previous Chapter Next Chapter Chapter 1 – Yun Che, Xiao Che Yun Che’s consciousness gradually awakened. What’s going on… How is it that I have not died? I vividly remember that I jumped off Cloud&#039;s End Cliff, how can I still be alive! Somehow my body is not in pain… And I do not even feel..."/>
+<div itemprop="articleBody">
+<p><a title="Prologue" href="http://www.wuxiaworld.com/atg-index/prologue/">Previous Chapter </a><span style="float: right"><a title="Chapter 2" href="http://www.wuxiaworld.com/atg-index/atg-chapter-2/">Next Chapter</a> </span></p>
+<hr/>
+<p><strong>Chapter 1 – Yun Che, Xiao Che</strong></p>
+<p>Yun Che’s consciousness gradually awakened.</p>
+<p>What’s going on… How is it that I have not died? I vividly remember that I jumped off Cloud&#8217;s End Cliff, how can I still be alive! Somehow my body is not in pain… And I do not even feel the slightest discomfort? How is this happening?</p>
+<p>Yun Che suddenly opened his eyes and quickly sat up. He found himself in a comfortably soft bed, with a red banner hanging above him, rendering a festive atmosphere.</p>
+<p>“Ah! Little Che! You… You woke up!”</p>
+<p>A girl’s gasp of surprise was heard from his ear and the same girl appeared in his line of sight.</p>
+<p>At a glance the girl dressed in green looked to be fifteen to sixteen years of age. She was as fair as snow with charming rosy lips and a delicate nose. A touching look of deep surprise was expressed by eyes as clear and transparent as a pool of translucent spring water. Her face exuded a dazzling gentleness and softness. At this young age, she already exhibited such charm, so who can possibly imagine what sort of beauty she would be in the future?</p>
+<p>Staring at the nearby girl, Yun Che took a closer look and unconsciously let two words escape his lips, “Little Aunt?”</p>
+<p>The fair girl lifted her jade-like hands onto Yun Che’s forehead and relaxed soon after. With a joyful expression, she spoke, “How delightful, your temperature is almost back to normal. You nearly scared me to death. Little Che, are you okay? Tell me if you feel uncomfortable anywhere.”</p>
+<p>In the face of the girl’s eyes that filled with deep concern, Yun Che woodenly shook his head. He stared openly into space with a vacant gaze.</p>
+<p>“Rest here for a while, I’ll go and tell your grandpa that you’re awake. Today is your day! When you fainted, your grandfather almost went crazy and personally went to find Doctor Situ for you.”</p>
+<p>The girl was in such a rush that she did not notice the abnormality of Yun Che’s current state. She pushed Yun Che’s shoulders, signaling him to lie back on the bed and hurriedly left.</p>
+<p>As the door shut Yun Che sat up on the bed, hands clutching his head.</p>
+<p>This was one of the cities in the far east located in one of the Seven Empires of the Profound Sky Continent—Floating Cloud City. And he was the only grandson of the fifth elder of the Xiao Clan—Xiao Che! He had just turned sixteen this year.</p>
+<p>That was his current identity.</p>
+<p>Suddenly, his memory overlapped with the Azure Cloud Continent’s twenty or so years of memory and he burst into confusion.</p>
+<p>If I am Xiao Che… Then why do I have memories of the Azure Cloud Continent?</p>
+<p>Is it because I traveled to this body after I died in the Azure Cloud Continent?</p>
+<p>No! I am obviously Xiao Che! This entire room is familiar to me and I clearly remember all the events of my childhood. Everything from my memory was from personal experience and there is no way I would steal another’s memory!</p>
+<p>Then was everything from the Azure Cloud Continent all just a dream? Was it only after I jumped off Cloud&#8217;s End Cliff that I truly woke up?</p>
+<p>But the memories of living in Azure Cloud Continent were as clear as day. How could those twenty-four years of love and hatred be only just a dream!</p>
+<p>What the hell is going on?</p>
+<p>Yun Che… The current Xiao Che stilled for a long time as he slowly calmed down and settled his thoughts.</p>
+<p>It was still early in the morning and the sky had not fully brightened. Today was his and Xia Clan’s big wedding day. Two hours ago he was woken up by his Little Aunt and put on his red wedding robe. He ate the porridge his Little Aunt personally made and lost all the strength in his body. He did not remember anything that happened after that.</p>
+<p>He did not wake up until now.</p>
+<p>A strange smell came from his lips and Xiao Che’s lips tucked slightly. His expression darkened.</p>
+<p>This is… Murdering Heart Powder!!</p>
+<p>In those years that he lived on the Azure Cloud Continent, with the Sky Poison Pearl in his body, Yun Che learned about all the poisons present in the entire world and it could be said that there was no poison he was not familiar with. He could identify a poison’s name and effect with just a whiff. At the same time, because the Sky Poison Pearl, he was impervious. He could not be hurt by any poison, no matter how toxic it was.</p>
+<p>Murdering Heart Powder was made by combining a unique soul grass and the purple striae from a cherry-apple tree. If dissolved in water, the poison was colorless and tasteless. A person would lose his life ten seconds after the poison entered the body and no one would know the cause of death for it was also a traceless poison.</p>
+<p>Xiao Che’s eyes clouded over and instantly understood what had happened.</p>
+<p>In fact, he did not really faint. Instead, he drank the porridge containing the Murdering Heart Powder and was poisoned to death! He was born in the Azure Cloud Continent but after he leapt off Cloud&#8217;s End Cliff…. he was actually reincarnated in this world inside a dead body!</p>
+<p>If one were to hear this, it would sound like it was a fantastical story, but that was the only reasoning Xiao Che could imagine!</p>
+<p>Wait a minute…. if it really was like that, then this body should have no antitoxin ability. How come he was safe from the Murdering Heart Powder on his lips when the previous body’s owner died not too long ago?</p>
+<p>A slightly strange feeling came from the palm of his left hand. Xiao Che lifted his left hand and was surprised to find that there was a circular green imprint on his palm.</p>
+<p>This shape, this color, this size…. was clearly the same as the Sky Poison Pearl!</p>
+<p>Before jumping off Cloud&#8217;s End Cliff, he had desperately swallowed the Sky Poison Pearl but he did not actually know what would happen to him. This mark on his hand was unexpectedly the Sky Poison Pearl and it actually crossed over with him to this world!</p>
+<p>As if in a trance, Xiao Che stared at the Sky Poison Pearl and subconsciously whispered. “Sky Poison Pearl….”</p>
+<p>As his voice dropped off, the green mark on his palm suddenly released a green light. Immediately, a slight dizziness came over him and he unconsciously closed his eyes. When he opened them, his entire world was flooded in green.</p>
+<p>This world of green was wide and open. There were no boundaries to be seen and there was a faint aura of the Sky Poison Pearl throughout this space. After a long daze, Xiao Che understood, that he had entered the world inside the Sky Poison Pearl.</p>
+<p>Who would have thought that inside the Sky Poison Pearl, there would be such a wide and open world! What was even more unimaginable was that after he’d eaten the Sky Poison Pearl without thinking of the consequences, the Sky Poison Pearl had actually traveled along with him, and even seemed to have become a part of his body.</p>
+<p>If there was a way in, there had to be a way out.</p>
+<p>Xiao Che closed his eyes, and concentrated his thoughts. Suddenly, the world of green hastily dissipated, and when he opened his eyes again, in his vision, was the room he was familiar with.</p>
+<p>Staring at the faint green mark in his palm, Xiao Che slowly smiled… Even though it was not known why this ridiculous event occurred, not only had he reincarnated, but also retained memories from both lives. Maybe, even the gods couldn’t watch the suffering of the two lives, took pity, and gave him a chance to live again!</p>
+<p>Yun Che was the victim of persecution from Azure Cloud Continent’s countless strongest individuals. Although he died in the end, he shook the world by himself; how awe-inspiring and astonishing was that! However, his body right now, was only average… no, speaking without restraints, it could be considered the epitome of weakness.</p>
+<p>In the Profound Sky Continent, profound strength was most important. Although Xiao Che was born in the Xiao Clan, and was even the grandchild of the strongest Fifth Elder Xiao Lie, his profound strength was still at at the first level of the Elementary Profound Realm even though he was already sixteen. He started training when he was seven and half, entered the first level of the Elementary Profound at the age of eight, and then didn’t improve for an entire eight years. He was mocked by all of Xiao Clan. Afterwards, Xiao Lie invited Floating Cloud City’s top class doctor Doctor Situ to examine his body, and shockingly found that Xiao Che was born with damaged profound veins. The damage was so severe that it was almost impossible to recover from. In this state, Xiao Che would stagnate at first level of the Elementary Profound Realm, and could never improve further no matter how hard he worked.</p>
+<p>Even if he trained with his life on the line, he would stay at first level of the Elementary Profound Realm his entire life. This kind of person was unquestionably the lowest existence in the Profound Sky Continent, and was a total laughingstock within the Xiao Clan. If not for his grandfather Xiao Lie being the strongest in Xiao Clan, who also could even be said to be the strongest in the Floating Cloud City, no one would bat an eye against him.</p>
+<p>Xiao Clan was one of the three major families that trained in the ways of the profound in Floating Cloud City and has limitless strong entities. In the large number of youths coming forth from the same generation, Xiao Che could be said to be an unnecessary existence. Even if he died some day, not many except a few would care. But there were some today that actually tried to murder him using the extremely hard to obtain and expensive Murdering Heart Powder. Xiao Che clearly knew the reason why now.</p>
+<p>Because today was the wedding day between him and Xia Qingyue.</p>
+<p>Xia Qingyue, being the same age as him, was also sixteen. However, at such a young age, her profound strength was stated to have reached the tenth level of the Elementary Profound Realm, almost breaking out of the elementary level and stepping into the Nascent Profound Realm. She was the only one in a hundred years that had reached this level of profound strength at the age of sixteen in the Xia Clan. There were even rumors that if she continued to develop this way, she would be the first person in the history of the Xia Clan to ever step into the Earth Profound Realm a few decades later… or may even be able to reach the Sky Profound Realm that no one in Floating Cloud City had even thought of reaching in the past few centuries!</p>
+<p>More importantly, she was not only shockingly astute, but also extremely beautiful, and was considered to be the most beautiful girl by all of Floating Cloud City. All of Floating Cloud City’s youths with some level of competency drooled over her. If the Xia Clan started looking for grooms, the line waiting would probably be long enough to stretch between the south and north gates of Floating Cloud City.</p>
+<p>This pinnacle of a girl with both intelligence and beauty in the Floating Cloud City, was actually marrying the generation’s most worthless youth with no future at all. Who knew how many people were stomping their feet in anger and jealousy… This was wholly a case of a dazzling lotus flower planted on a pile of manure that no one would even bother to look at.</p>
+<p>The ones that had unrequited love for Xia Qingyue of course held both extreme jealousy and hatred towards Xiao Che. Even more were unwilling to give up… and would try to assassinate him by poison. As the current Xiao Che thought about it, this situation didn’t seem to be bizarre at all.</p>
+<p>“Women are really the root of troubles.” Xiao Che got off the bed, stood up, and soliloquized. But as he thought of the beauty and charm of Xia Qingyue that could tip over a whole city, he opened his mouth and laughed heartily, “Still, I get to marry such a bride, this really is a good beginning.”</p>
+<hr/>
+<p><a title="Prologue" href="http://www.wuxiaworld.com/atg-index/prologue/">Previous Chapter </a><span style="float: right"><a title="Chapter 2" href="http://www.wuxiaworld.com/atg-index/atg-chapter-2/">Next Chapter</a> </span></p>
+</div>
+</div>
+
+<div class='code-block code-block-4 ai-viewport-3' style='text-align: center; justify-novel: center; margin: 8px 0;'>
+
+<div id='div-gpt-ad-1455633425297-6' class="wuxiaworld_BTF4 mobile" style='height:250px; width:300px; margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-6').parentNode.parentNode.style.padding = '0';
+    if (isMobileDevice()) {
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-6'); });
+    }
+</script>
+</div>
+<p style="margin:0; font-size: 10px;">Advertisement</p></div>
+</div>
+<footer class="entry-footer">
+</footer>
+</article>
+<div class="beforeCommentsPage" role="complementary">
+<div class='ai-viewport-1'><aside id="ai_widget-35" class="horizontal beforeComments ai_widget"><div class='code-block code-block-8' style='text-align: center; margin: 8px auto;'>
+ </div>
+</aside></div><div class='ai-viewport-1'><aside id="ai_widget-36" class="horizontal beforeComments ai_widget"><div class='code-block code-block-6' style='text-align: center; margin: 8px auto;'>
+
+<div id='div-gpt-ad-1455633425297-7' class="wuxiaworld_BTF5 desktop" style='margin: auto;'>
+<script id='div-gpt-ad-1455633425297-7-DES' type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-7').parentNode.parentNode.style.padding = '0';
+    if (!isMobileDevice()) {
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-7'); });
+    } else {
+        document.getElementById('div-gpt-ad-1455633425297-7-DES').parentNode.id = 'REMOVED_ID';
+    }
+</script>
+</div>
+<p style="margin:0; font-size: 10px;">Advertisement</p></div>
+</aside></div></div>
+<div id="comments" class="comments-area">
+<h2 class="comments-title">
+39 thoughts on &ldquo;<span>ATG &#8211; Chapter 1</span>&rdquo; - NO SPOILERS </h2>
+<ol class="comment-list">
+<li class="comment byuser comment-author-the-emperor even thread-even depth-1" id="li-comment-69994">
+<article id="comment-69994" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/06989ff6016e531e758da4009890ecb4?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>The Emperor</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-69994"><time datetime="2015-06-13T14:10:02+00:00"> June 13, 2015 at 2:10 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Seeems good</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-caladbolg odd alt thread-odd thread-alt depth-1" id="li-comment-69995">
+<article id="comment-69995" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/05/Souma.jpg" width="48" height="50" alt="Caladbolg" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Caladbolg</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-69995"><time datetime="2015-06-13T14:10:03+00:00"> June 13, 2015 at 2:10 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Combination of BTTH and DE, more or less. We will see if this will get interesting later on or will it dissapoint 🙂 Thanks for chapter, my first comment on this series, hehe.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment even depth-2" id="li-comment-70002">
+<article id="comment-70002" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Wytchlord</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70002"><time datetime="2015-06-13T14:14:09+00:00"> June 13, 2015 at 2:14 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>DE?</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment byuser comment-author-megan odd alt depth-3" id="li-comment-70052">
+<article id="comment-70052" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2016/01/IMG_20160125_213627.jpg" width="32" height="50" alt="Megan" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Megan</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70052"><time datetime="2015-06-13T14:48:08+00:00"> June 13, 2015 at 2:48 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Short for Desolate Era</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+</li>
+<li class="comment byuser comment-author-philosopher-stone even depth-2" id="li-comment-70043">
+<article id="comment-70043" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/11/Philosopher-Stone1.jpg" width="50" height="50" alt="Philosopher Stone" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Philosopher Stone</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70043"><time datetime="2015-06-13T14:41:15+00:00"> June 13, 2015 at 2:41 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>It reminds me of Mushoku Tensei, the MC reincarnated to a body with the previous soul gone, but in this case a broken body instead of body with supreme mana capacity.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment byuser comment-author-blank odd alt depth-3" id="li-comment-105839">
+<article id="comment-105839" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://1.gravatar.com/avatar/a83870e5acfb264ae6313190437acd2e?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Blank</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-105839"><time datetime="2015-08-07T09:56:20+00:00"> August 7, 2015 at 9:56 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>In MT mana capacity is improved on childhood, just that they say it&#8217;s in born because they start training on the matured phase of growth already</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-elliv even depth-3" id="li-comment-197879">
+<article id="comment-197879" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/12/00001.jpg" width="48" height="50" alt="elliv" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b><a href='http://www.coretku.com' rel='external nofollow' class='url'>elliv</a></b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-197879"><time datetime="2015-12-17T06:34:11+00:00"> December 17, 2015 at 6:34 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>i read the manga, MT born start from child o.o ?</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-jhonandy7 odd alt depth-3" id="li-comment-218781">
+<article id="comment-218781" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2016/02/c1c773_549336_big.gif" width="50" height="50" alt="jhonandy7" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>jhonandy7</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-218781"><time datetime="2016-01-03T02:39:36+00:00"> January 3, 2016 at 2:39 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>This is More like Feng Shin ji mixed with Combat continent mixed with other cultivations stories.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+</li>
+<li class="comment even depth-2" id="li-comment-107729">
+<article id="comment-107729" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://1.gravatar.com/avatar/?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>PETA - People for the Ethical Treatment of Animals</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-107729"><time datetime="2015-08-12T19:49:47+00:00"> August 12, 2015 at 7:49 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Seems to me, with the thin pathways and the finding the crystal which helps him, it&#8217;s much like Stellar Transformations. The name of the cultivation level (Profound Realm) as well as the crystal seem very much like Martial God Asura. Desolate Era just because of the crystal in his hand. The only similarity so far to Battle Through the Heavens is the wedding in the beginning; but in BTTH, the wedding was unwanted, as he had a much better choice, this person seems desirable.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-mrvoid odd alt depth-2" id="li-comment-140192">
+<article id="comment-140192" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/10/Salt-copy5.png" width="50" height="45" alt="MrVoid" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>MrVoid</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-140192"><time datetime="2015-10-12T00:51:19+00:00"> October 12, 2015 at 12:51 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>A story which starts out with info-dumps&#8230;? That&#8217;s a bad omen right there. |:</p>
+<p>Then again, Coiling Dragon also started with retarded amount of redundant info-dumps, and it&#8217;s an overall fun story, maybe this will be the same.<br/>
+Hopefully the protagonist will stop talking to himself for entire chapters, and will act more than he moves his lips. One of the big downfalls of stories like these, is that they over-analyse information, to the point it goes nowhere, and then you see lines like: &#8220;But I digress&#8221; or &#8220;But, back to the point&#8221;. &lt;_&lt;<br/>
+A sign of bad writing, is when the author won&#039;t stop talking to himself.</p>
+<p>&#039;Here hoping it won&#039;t come to that.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment byuser comment-author-seregosa even depth-3" id="li-comment-575798">
+<article id="comment-575798" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/62b7d6674b2d57afdc801bf33333b8e4?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>seregosa</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-575798"><time datetime="2017-02-12T18:16:01+00:00"> February 12, 2017 at 6:16 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Doesn&#8217;t most stories start with with big info-dumps? although I also dislike that, but I don&#8217;t even think of it so much, I just find it a bit annoying for a few chapters until the story truly starts for real. Most chinese authors that I&#8217;ve seen do this when writing novels like this. It&#8217;s like they&#8217;re trying to jumpstart you with lore and background information, and it&#8217;s usually really tedious to read through. Still, fairly good to know some info and adapt to this novel universe as soon as possible, but I must say I prefer when things get revealed slowly over time instead of using big info dumps such as these 😀</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li class="comment byuser comment-author-rimge odd alt thread-even depth-1" id="li-comment-70073">
+<article id="comment-70073" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/08/xddd22.jpg" width="50" height="30" alt="Rimge" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Rimge</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70073"><time datetime="2015-06-13T15:11:43+00:00"> June 13, 2015 at 3:11 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Thanx for alyschu this pinnacle of a girl with both intelligence and beauty&#8230; and also her team 🙂</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-revoy even thread-odd thread-alt depth-1" id="li-comment-70089">
+<article id="comment-70089" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/90f54e7c8efbf40f71a24c5081da2c90?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Revoy</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70089"><time datetime="2015-06-13T15:24:05+00:00"> June 13, 2015 at 3:24 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Thank you! This looks its going to be a great series already.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-anoniipink odd alt thread-even depth-1" id="li-comment-70098">
+<article id="comment-70098" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/c932808409b093c2785937b003aed57f?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Anonii</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70098"><time datetime="2015-06-13T15:34:40+00:00"> June 13, 2015 at 3:34 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Looks interesting .-.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-libutcher even thread-odd thread-alt depth-1" id="li-comment-70453">
+<article id="comment-70453" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/b580faac41ea4ad9920d9c27ef939fc8?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Solnya</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70453"><time datetime="2015-06-13T22:08:31+00:00"> June 13, 2015 at 10:08 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>&#8220;This was wholly a case of a dazzling lotus flower planted on a pile of manure that no one would even bother to look at.&#8221;<br/>
+Obviously those people are not of the knowledge that the right manure is actually beneficial to growth&#8230;</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment byuser comment-author-the-wandering-dragon odd alt depth-2" id="li-comment-70585">
+<article id="comment-70585" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/05/Wandering-Dragon.jpg" width="35" height="50" alt="The-Wandering-Dragon" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>The-Wandering-Dragon</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70585"><time datetime="2015-06-14T01:53:44+00:00"> June 14, 2015 at 1:53 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Too true.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-tasear even depth-2" id="li-comment-76720">
+<article id="comment-76720" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/3d1a4f4570e134df0d2336036430809d?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Tasear</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-76720"><time datetime="2015-06-23T06:16:55+00:00"> June 23, 2015 at 6:16 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>That&#8217;s why the underdog wins.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+</li>
+<li class="comment byuser comment-author-the-wandering-dragon odd alt thread-even depth-1" id="li-comment-70586">
+<article id="comment-70586" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/05/Wandering-Dragon.jpg" width="35" height="50" alt="The-Wandering-Dragon" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>The-Wandering-Dragon</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-70586"><time datetime="2015-06-14T01:55:04+00:00"> June 14, 2015 at 1:55 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Let us recount how this soul fusion goes!!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-foodisyummy even thread-odd thread-alt depth-1" id="li-comment-71241">
+<article id="comment-71241" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://1.gravatar.com/avatar/12e2f79072c0db059de6567a351a7a49?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>FoodIsYummy</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-71241"><time datetime="2015-06-14T22:45:57+00:00"> June 14, 2015 at 10:45 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Interesting, very interesting. Have to get caught up now. =)</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-tasear odd alt thread-even depth-1" id="li-comment-76719">
+<article id="comment-76719" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/3d1a4f4570e134df0d2336036430809d?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Tasear</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-76719"><time datetime="2015-06-23T06:15:39+00:00"> June 23, 2015 at 6:15 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>The forewarning at the end of this chapter is strong. Can&#8217;t wait till, I click next!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-elsie even thread-odd thread-alt depth-1" id="li-comment-81668">
+<article id="comment-81668" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/321f953d7779a55d798b2485e28b731b?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Elsie</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-81668"><time datetime="2015-06-28T08:50:35+00:00"> June 28, 2015 at 8:50 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>I wonder if the person who poisoned the main character will be found</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment odd alt thread-even depth-1" id="li-comment-83592">
+<article id="comment-83592" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://1.gravatar.com/avatar/?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>rougeteddyz</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-83592"><time datetime="2015-06-30T13:29:48+00:00"> June 30, 2015 at 1:29 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Seems like a mix of BTTH and Douluo Dalu</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-aashish even thread-odd thread-alt depth-1" id="li-comment-86677">
+<article id="comment-86677" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/07/claire_stanfield.jpg" width="35" height="50" alt="aashish" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>aashish</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-86677"><time datetime="2015-07-05T19:35:34+00:00"> July 5, 2015 at 7:35 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>You are forgetting that rudeus trained to get that huge mana capacity</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-abyssdarkfire odd alt thread-even depth-1" id="li-comment-100084">
+<article id="comment-100084" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/07/Sasbats2.jpg" width="50" height="26" alt="abyssdarkfire" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>abyssdarkfire</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-100084"><time datetime="2015-07-27T04:35:08+00:00"> July 27, 2015 at 4:35 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Lol he like yes</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-kalagemet even thread-odd thread-alt depth-1" id="li-comment-111607">
+<article id="comment-111607" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/08/11218834_10152895383141234_2199613233990968705_n.jpg" width="35" height="50" alt="Kalagemet" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Kalagemet</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-111607"><time datetime="2015-08-22T03:11:44+00:00"> August 22, 2015 at 3:11 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Reborn in a shitty body, but soon to marry the most beautiful girl. True blessing in disguise!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-aksarakishou odd alt thread-even depth-1" id="li-comment-115477">
+<article id="comment-115477" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/6a1b1597218e2e87b36da2cb487c9057?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>aksarakishou</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-115477"><time datetime="2015-09-01T21:23:23+00:00"> September 1, 2015 at 9:23 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>looks like a mix between BTTH, Mushoku Tensei and Feng Shen Ji.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-crystalalarm even thread-odd thread-alt depth-1" id="li-comment-134219">
+<article id="comment-134219" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/52f5a3678228a81133dc6e9d411fba31?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Crystalalarm</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-134219"><time datetime="2015-10-03T16:58:42+00:00"> October 3, 2015 at 4:58 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>20 internet bucks says it was the prospective &#8220;fiancee&#8221;, not wanting to be married to a useless man. I just got done catching up with MGA so i&#8217;m a bit wary of female characters.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-i3omb odd alt thread-even depth-1" id="li-comment-140917">
+<article id="comment-140917" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/b44b76d5e8a444fe7cf83a0d286ed8b7?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>I3omb</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-140917"><time datetime="2015-10-12T22:17:42+00:00"> October 12, 2015 at 10:17 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>If not for for his grandfather Xiao Lie </p>
+<p>you have too many for</p>
+<p> If not for his grandfather Xiao Lie</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-siren even thread-odd thread-alt depth-1" id="li-comment-187524">
+<article id="comment-187524" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/12/image.jpeg" width="50" height="50" alt="Siren" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Siren</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-187524"><time datetime="2015-12-06T11:31:36+00:00"> December 6, 2015 at 11:31 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>I&#8217;m not super happy about the fact that we don&#8217;t get to see him grow up from a child to an adult after his reincarnation, but oh well&#8230;</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-elliv odd alt thread-even depth-1" id="li-comment-197883">
+<article id="comment-197883" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2015/12/00001.jpg" width="48" height="50" alt="elliv" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b><a href='http://www.coretku.com' rel='external nofollow' class='url'>elliv</a></b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-197883"><time datetime="2015-12-17T06:36:21+00:00"> December 17, 2015 at 6:36 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>my third wuxia, 1. demon god, 2. ISSTH 3. this..<br/>
+hope nice, i love reincarnation story :&gt;</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-depore even thread-odd thread-alt depth-1" id="li-comment-215986">
+<article id="comment-215986" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/87e029bb4aa5072631b403f4cb2be60c?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Depore</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-215986"><time datetime="2016-01-01T01:23:26+00:00"> January 1, 2016 at 1:23 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Rereading this masterpiece because its 2016 and just because i can. Lets go!!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-maykol2688 odd alt thread-even depth-1" id="li-comment-329117">
+<article id="comment-329117" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/eb9f450ec018564241803bf80d5b2508?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>Kryzin</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-329117"><time datetime="2016-04-21T16:59:50+00:00"> April 21, 2016 at 4:59 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Thxs for the chapter.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-ainai even thread-odd thread-alt depth-1" id="li-comment-371923">
+<article id="comment-371923" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2016/05/php8WZaMd_c2PM.jpg" width="50" height="50" alt="Hentai Ai" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Hentai Ai</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-371923"><time datetime="2016-06-07T10:53:22+00:00"> June 7, 2016 at 10:53 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>My third WN &lt;3<br/>
+First was TDG and the second was BTTH.<br/>
+I feel real bad that I caught up to both of their manhua in 48 hours :(. Then caught up to their WN in 3 weeks :(.</p>
+<p>This time I don&#039;t have a manhua image to base the character off of. I&#039;ll just image everything like the other two. xD</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-goo21 odd alt thread-even depth-1" id="li-comment-385355">
+<article id="comment-385355" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://1.gravatar.com/avatar/7111862fcded6055fef2f6f87f948cf5?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>goo21</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-385355"><time datetime="2016-06-21T12:27:06+00:00"> June 21, 2016 at 12:27 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>“Women are really the root of troubles.”<br/>
+More like you&#8217;re just an ordinary guy who wants to blame someone for his troubles.</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-ginjamaica even thread-odd thread-alt depth-1" id="li-comment-435105">
+<article id="comment-435105" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://2.gravatar.com/avatar/b3a8ad154c9398c684416487fed54881?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>GinJamaica</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-435105"><time datetime="2016-08-20T11:51:24+00:00"> August 20, 2016 at 11:51 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Thought I would give this a shot but I&#8217;m flabbergasted to find a plot hole in the very first chapter.</p>
+<p>&#8220;In those years that he lived on Azure Cloud Continent, with the Sky Poison Pearl in his body, Yun Che learned about all the poisons&#8221;</p>
+<p>And only a few paragraphs later</p>
+<p>&#8220;Before jumping off Jue Yun cliff, he had desperately swallowed the Sky Poison Pearl but he did not actually know what would happen to him&#8221;</p>
+<p>Excuse me? Are plot holes like this common in this novel?</p>
+<p>How could he have lived for years with the pearl in his body and learned everything there is about poisons and become immune to every possible poison and then moments later as he commits suicide swallow the pearl not knowing what will happen to him?</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+<ol class="children">
+<li class="comment byuser comment-author-rubble odd alt depth-2" id="li-comment-550301">
+<article id="comment-550301" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2016/09/train-of-thought.jpg" width="50" height="50" alt="Rubble" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Rubble</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-550301"><time datetime="2017-01-14T04:48:42+00:00"> January 14, 2017 at 4:48 am</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>If I didn&#8217;t get totally lost, it was merged with his hand before.<br/>
+In desperation he swallowed the thing.<br/>
+Who knows how it will react to acid. &gt;:)</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+</li>
+<li class="comment byuser comment-author-thelightsyde even thread-even depth-1" id="li-comment-521425">
+<article id="comment-521425" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2017/01/4_3_1.jpg" width="47" height="50" alt="thelightsyde" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>thelightsyde</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-521425"><time datetime="2016-12-11T19:14:25+00:00"> December 11, 2016 at 7:14 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Rereading this great story cause I love it!! Yaaye!!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-seregosa odd alt thread-odd thread-alt depth-1" id="li-comment-575800">
+<article id="comment-575800" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://0.gravatar.com/avatar/62b7d6674b2d57afdc801bf33333b8e4?s=50&#038;d=mm&#038;r=pg" width="50" height="50" alt="" class="avatar avatar-50wp-user-avatar wp-user-avatar-50 alignnone photo avatar-default"/><span class="fn"><b>seregosa</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-575800"><time datetime="2017-02-12T18:17:02+00:00"> February 12, 2017 at 6:17 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Would&#8217;ve been really funny if he jumped out of bed and started beating people down because he was confused&#8230; Oh well, he doesn&#8217;t currently have the strength for that anyway 😀</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+<li class="comment byuser comment-author-gilson2412 even thread-even depth-1" id="li-comment-608575">
+<article id="comment-608575" class="comment-body">
+<footer class="comment-meta">
+<div class="comment-author vcard"><img src="http://www.wuxiaworld.com/wp-novel/uploads/2016/05/13173087_1027645183980233_7543537436889486053_o.jpg" width="50" height="50" alt="Supreme General Thirteendaggers!!!" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 alignnone photo"/><span class="fn"><b>Supreme General Thirteendaggers!!!</b> <br/><a href="http://www.wuxiaworld.com/atg-index/atg-chapter-1/#comment-608575"><time datetime="2017-03-16T15:15:28+00:00"> March 16, 2017 at 3:15 pm</time></a></span></div> </footer>
+<div class="comment-novel">
+<p>Thanks for the chapter!</p>
+</div>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">Log in to Reply</a> <span>&darr;</span> </div>
+</article>
+</li>
+</ol>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/atg-index/atg-chapter-1/#respond" style="display:none;">Cancel reply</a></small></h3><p class="must-log-in">You must be <a href="https://www.wuxiaworld.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.wuxiaworld.com%2Fatg-index%2Fatg-chapter-1%2F">logged in</a> to post a comment.</p> </div>
+</div>
+<div role="complementary">
+<div class='ai-viewport-2'><aside id="ai_widget-34" class="horizontal ai_widget"><div class='code-block code-block-16' style='display: fixed; bottom: 0; margin: 0 auto;'>
+
+<div id='div-gpt-ad-1455633425297-0' class="wuxiaworld_1x1">
+<script type='text/javascript'>
+    if (isMobileDevice()) {
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-0'); });
+    }
+</script>
+</div></div>
+</aside></div></div>
+</main>
+</div>
+<div id="secondary" class="widget-area" role="complementary">
+
+<div class='ai-viewport-1'><aside id="ai_widget-22" class="widget ai_widget"><div class='code-block code-block-1' style='text-align: center; margin: 8px auto;'>
+<h1 style="margin: 0;" class="widget-title">Advertisement</h1>
+
+<div id='div-gpt-ad-1455633425297-2' class="wuxiaworld_ATF2" style='height:250px; width:300px; margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-2').parentNode.parentNode.style.padding = '0';
+    document.getElementById('div-gpt-ad-1455633425297-2').parentNode.parentNode.style.marginTop  = '0';
+
+    if (!isMobileDevice()) {
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-2'); });
+    }
+</script>
+</div>
+ </div>
+</aside></div><aside id="simple_progress_bar-7" class="widget widget_simple_progress_bar"><div class="widget-text simple_progress_bar"><h1 class="widget-title">Support Against the Gods!</h1>
+<div id="bar-paypal"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="ohemgeexme@gmail.com">
+<input type="hidden" name="lc" value="en_US">
+<input type="hidden" name="item_name" value="Support Against the Gods">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax_rate" value="0.00">
+<input type="hidden" name="shipping" value="0.00">
+<input type="image" src="http://www.wuxiaworld.com/sponsor.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+<div id="bar-status">
+<div id="bar-start">0$ </div>
+<div id="bar-container">
+<div id="bar" style="width:100%;"></div>
+</div>
+<div id="bar-target">75$</div>
+</div>
+<div id="bar-total">Raised so far: 140 $ (187%)</div>
+</div></aside><aside id="simple_progress_bar-24" class="widget widget_simple_progress_bar"><div class="widget-text simple_progress_bar"><h1 class="widget-title">Support Spirit Realm!</h1>
+<div id="bar-paypal"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="ohemgeexme@gmail.com">
+<input type="hidden" name="lc" value="en_US">
+<input type="hidden" name="item_name" value="Support Spirit Realm">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax_rate" value="0.00">
+<input type="hidden" name="shipping" value="0.00">
+<input type="image" src="http://www.wuxiaworld.com/sponsor.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
+<div id="bar-status">
+<div id="bar-start">0$ </div>
+<div id="bar-container">
+<div id="bar" style="width:33%;" class="bar-red"></div>
+</div>
+<div id="bar-target">75$</div>
+</div>
+<div id="bar-total">Raised so far: 25 $ (33%)</div>
+</div></aside><aside id="text-46" class="widget widget_text"><h1 class="widget-title">Alyschu on Patreon</h1> <div class="textwidget"><a href="https://www.patreon.com/manlychu">
+<img src="http://www.wuxiaworld.com/wp-novel/uploads/2017/04/button-ATGEvernightPerf.png">
+</a>
+<a href="https://www.patreon.com/spiritchu">
+<img src="http://www.wuxiaworld.com/wp-novel/uploads/2017/03/SR_Aligned.png">
+</a>
+</div>
+</aside> <aside id="recent-posts-2" class="widget widget_recent_entries"> <h1 class="widget-title">Recent Posts</h1> <ul>
+<li>
+<a href="http://www.wuxiaworld.com/renegade-immortal-chapter-546/">Renegade Immortal Chapter 546</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%f0%9f%90%afinvincible-chapter-198%f0%9f%90%af/">🐯Invincible Chapter 198🐯</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/icds-chapter-74/">ICDS Chapter 74</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%f0%9f%92%9bim-sorry-for-being-born-in-this-world%f0%9f%92%9b-chapter-49/">💛I’m Sorry For Being Born In This World!💛 Chapter 49</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/new-de-chapter-release-book-29-chapters-36-37/">New DE Chapter Release! Book 29, Chapters 36-37</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/usaw-book-3-chapter-274/">USAW Book 3 Chapter 274</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/rmji-chapter-373/">RMJI Chapter 373</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%9d%a3%ef%b8%8fancient-strengthening-technique-928-929-930%e2%9d%a3%ef%b8%8f/">❣️Ancient Strengthening Technique 928, 929, 930!❣️</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/icds-chapter-73/">ICDS Chapter 73</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%99%94-s%f0%9f%8c%batr-chapter-564-%e2%99%94/">♔ S🌺TR Chapter 564 ♔</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/ssn-chapter-170-release/">☠SSN Chapter 170 Release☠</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%99%9f-wmw-chapter-854-%e2%99%9f/">♟ WMW Chapter 854 ♟</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/mw-chapter-1051/">MW Chapter 1051</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/icds-chapter-72/">ICDS Chapter 72</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/lord-of-all-realms-chapter-36/">Lord of All Realms Chapter 36</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e3%80%90tgr%e3%80%91chapter-333/">【TGR】Chapter 333</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%99%9f-wmw-chapter-853-%e2%99%9f/">♟ WMW Chapter 853 ♟</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/btth-928-932/">BTTH 928-932!</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/mga-chapters-1899-1902-release/">MGA Chapters 1899-1902 Release</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%f0%9f%97%a1rt-chapter-237%f0%9f%97%a1/">🗡RT Chapter 237🗡</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/spirit-vessel-chapter-228/">Spirit Vessel Chapter 228</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%98%80ldk-ch223%e2%98%80/">☀LDK CH223☀ + More Official Douluo Dalu and LDK Art!</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/atg-chapter-840-843-%e2%9c%bf/">ATG Chapter 840–843 ✿</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%f0%9f%a6%8buts-book-5-chapter-32-132-2%f0%9f%a6%8b-121122/">🦋UTS Book 5, Chapter 32.1+32.2🦋 (121+122)</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/bem-chapter-74/">BEM Chapter 74</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/pto-chapter-79/">PTO Chapter 79</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/wdqk-chapter-812/">~WDQK Chapter 812~</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%99%9f-wmw-chapter-852-%e2%99%9f/">♟ WMW Chapter 852 ♟</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/ti-vol-19-chapter-14-1/">TI Vol 19 Chapter 14-1</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/mw-chapter-1050/">MW Chapter 1050</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/usaw-book-3-chapter-273/">USAW Book 3 Chapter 273</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/emperor-chapter-786/">Emperor Chapter 786</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/icds-chapter-71/">ICDS Chapter 71</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/%e2%98%80ldk-ch222%e2%98%80/">☀LDK CH222☀ + Douluo Dalu Animation Teaser Video!</a>
+</li>
+<li>
+<a href="http://www.wuxiaworld.com/pw-chapter-339/">PW Chapter 339!</a>
+</li>
+</ul>
+</aside> <div class='ai-viewport-3'><aside id="ai_widget-32" class="widget ai_widget"><div class='code-block code-block-7' style='text-align: center; margin: 8px auto;'>
+
+<div id='div-gpt-ad-1455633425297-7' class="wuxiaworld_BTF5 mobile" style='margin: auto;'>
+<script id='div-gpt-ad-1455633425297-7-MOV' type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-7').parentNode.parentNode.style.padding = '0';
+
+    if (isMobileDevice()) {
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-7'); });
+    } else {
+        document.getElementById('div-gpt-ad-1455633425297-7-MOV').parentNode.id = 'REMOVED_ID';
+    }
+</script>
+</div>
+<p style="margin:0; font-size: 10px;">Advertisement</p></div>
+</aside></div><aside id="text-40" class="widget widget_text"> <div class="textwidget"><a href="http://moonbunnycafe.com/alyschuco/"><img src="http://moonbunnycafe.com/wp-novel/uploads/2016/07/click-me-to-find-alyschu.png" alt=""/></a></div>
+</aside><aside id="ai_widget-23" class="widget ai_widget"><div class='code-block code-block-2' style='text-align: center; margin: 8px auto;'>
+<h1 id='d-title-1455633425297-3' style="margin: 0;" class="widget-title">Advertisement</h1>
+
+<div id='div-gpt-ad-1455633425297-3' class="wuxiaworld_BTF1" style='height:250px; width:300px; margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-3').parentNode.parentNode.style.padding = '0';
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-3'); });
+</script>
+</div>
+<p id='m-title-1455633425297-3' style="margin:0; font-size: 10px;">Advertisement</p>
+<script type='text/javascript'>
+    var node = null;
+
+    if (isMobileDevice()) {
+        node = document.getElementById('d-title-1455633425297-3');
+    } else {
+        node = document.getElementById('m-title-1455633425297-3');
+    }
+
+    node.parentNode.removeChild(node);
+</script></div>
+</aside><aside id="meta-2" class="widget widget_meta"><h1 class="widget-title">Meta</h1> <ul>
+<li><a href="https://www.wuxiaworld.com/wp-login.php?action=register">Register</a></li> <li><a href="https://www.wuxiaworld.com/wp-login.php">Log in</a></li>
+<li><a href="http://www.wuxiaworld.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://www.wuxiaworld.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li> </ul>
+</aside><aside id="categories-3" class="widget widget_categories"><h1 class="widget-title">Categories</h1> <ul>
+<li class="cat-item cat-item-1503"><a href="http://www.wuxiaworld.com/category/a-record-of-a-mortals-journey-to-immortality/">A Record of a Mortal&#039;s Journey to Immortality</a>
+</li>
+<li class="cat-item cat-item-1431"><a href="http://www.wuxiaworld.com/category/a-will-eternal/">A Will Eternal</a>
+</li>
+<li class="cat-item cat-item-1440"><a href="http://www.wuxiaworld.com/category/absolute-choice/">Absolute Choice</a>
+</li>
+<li class="cat-item cat-item-1508"><a href="http://www.wuxiaworld.com/category/acquiring-talent-in-a-dungeon/">Acquiring Talent in a Dungeon</a>
+</li>
+<li class="cat-item cat-item-162"><a href="http://www.wuxiaworld.com/category/atg-chapter-release/">Against the Gods</a>
+</li>
+<li class="cat-item cat-item-1502"><a href="http://www.wuxiaworld.com/category/ancient-godly-monarch/">Ancient Godly Monarch</a>
+</li>
+<li class="cat-item cat-item-1501"><a href="http://www.wuxiaworld.com/category/ancient-strengthening-technique/">Ancient Strengthening Technique</a>
+</li>
+<li class="cat-item cat-item-120"><a href="http://www.wuxiaworld.com/category/announcements/">Announcements</a>
+</li>
+<li class="cat-item cat-item-1120"><a href="http://www.wuxiaworld.com/category/author-spotlight/">Author Spotlight</a>
+</li>
+<li class="cat-item cat-item-67"><a href="http://www.wuxiaworld.com/category/btth-chapter-release/">Battle Through the Heavens</a>
+</li>
+<li class="cat-item cat-item-1509"><a href="http://www.wuxiaworld.com/category/breakers/">Breakers</a>
+</li>
+<li class="cat-item cat-item-1522"><a href="http://www.wuxiaworld.com/category/charm-of-soul-pets/">Charm of Soul Pets</a>
+</li>
+<li class="cat-item cat-item-559"><a href="http://www.wuxiaworld.com/category/col-chapter-release/">Child of Light</a>
+</li>
+<li class="cat-item cat-item-5"><a href="http://www.wuxiaworld.com/category/cd-chapter-release/">Coiling Dragon</a>
+</li>
+<li class="cat-item cat-item-375"><a href="http://www.wuxiaworld.com/category/de-chapter-release/">Desolate Era</a>
+</li>
+<li class="cat-item cat-item-1510"><a href="http://www.wuxiaworld.com/category/dragon-maken-war/">Dragon Maken War</a>
+</li>
+<li class="cat-item cat-item-1511"><a href="http://www.wuxiaworld.com/category/emperor-of-solo-play/">Emperor of Solo Play</a>
+</li>
+<li class="cat-item cat-item-1374"><a href="http://www.wuxiaworld.com/category/emperors-domination/">Emperor&#039;s Domination</a>
+</li>
+<li class="cat-item cat-item-1034"><a href="http://www.wuxiaworld.com/category/gate-of-revelation/">Gate of Revelation</a>
+</li>
+<li class="cat-item cat-item-1512"><a href="http://www.wuxiaworld.com/category/god-of-crime/">God of Crime</a>
+</li>
+<li class="cat-item cat-item-560"><a href="http://www.wuxiaworld.com/category/hjc-chapter-release/">Heavenly Jewel Change</a>
+</li>
+<li class="cat-item cat-item-117"><a href="http://www.wuxiaworld.com/category/issth-chapter-release/">I Shall Seal the Heavens</a>
+</li>
+<li class="cat-item cat-item-1500"><a href="http://www.wuxiaworld.com/category/i-really-am-a-superstar/">I&#039;m Really a Superstar</a>
+</li>
+<li class="cat-item cat-item-1528"><a href="http://www.wuxiaworld.com/category/im-sorry-for-being-born/">I&#039;m Sorry for Being Born</a>
+</li>
+<li class="cat-item cat-item-1535"><a href="http://www.wuxiaworld.com/category/infinite-competitive-dungeon-society/">Infinite Competitive Dungeon Society</a>
+</li>
+<li class="cat-item cat-item-1525"><a href="http://www.wuxiaworld.com/category/invincible/">Invincible</a>
+</li>
+<li class="cat-item cat-item-1419"><a href="http://www.wuxiaworld.com/category/legend-of-the-dragon-king/">Legend of the Dragon King</a>
+</li>
+<li class="cat-item cat-item-1540"><a href="http://www.wuxiaworld.com/category/lord-of-all-realms/">Lord of All Realms</a>
+</li>
+<li class="cat-item cat-item-125"><a href="http://www.wuxiaworld.com/category/mga-chapter-release/">Martial God Asura</a>
+</li>
+<li class="cat-item cat-item-1498"><a href="http://www.wuxiaworld.com/category/martial-world/">Martial World</a>
+</li>
+<li class="cat-item cat-item-1524"><a href="http://www.wuxiaworld.com/category/monarch-of-evernight/">Monarch of Evernight</a>
+</li>
+<li class="cat-item cat-item-724"><a href="http://www.wuxiaworld.com/category/perfect-world/">Perfect World</a>
+</li>
+<li class="cat-item cat-item-1531"><a href="http://www.wuxiaworld.com/category/praise-the-orc/">Praise the Orc!</a>
+</li>
+<li class="cat-item cat-item-1343"><a href="http://www.wuxiaworld.com/category/rebirth-of-the-thief/">Rebirth of the Thief</a>
+</li>
+<li class="cat-item cat-item-769"><a href="http://www.wuxiaworld.com/category/renegade-immortal/">Renegade Immortal</a>
+</li>
+<li class="cat-item cat-item-1513"><a href="http://www.wuxiaworld.com/category/seoul-stations-necromancer/">Seoul Station’s Necromancer</a>
+</li>
+<li class="cat-item cat-item-58"><a href="http://www.wuxiaworld.com/category/sa-chapter-release/">Skyfire Avenue</a>
+</li>
+<li class="cat-item cat-item-897"><a href="http://www.wuxiaworld.com/category/sotr-chapter-release/">Sovereign of the Three Realms</a>
+</li>
+<li class="cat-item cat-item-1287"><a href="http://www.wuxiaworld.com/category/sr-chapter-release/">Spirit Realm</a>
+</li>
+<li class="cat-item cat-item-1504"><a href="http://www.wuxiaworld.com/category/spirit-vessel/">Spirit Vessel</a>
+</li>
+<li class="cat-item cat-item-42"><a href="http://www.wuxiaworld.com/category/st-chapter-release/">ST Chapter Release</a>
+</li>
+<li class="cat-item cat-item-533"><a href="http://www.wuxiaworld.com/category/tdg-chapter-release/">Tales of Demons &amp; Gods</a>
+</li>
+<li class="cat-item cat-item-1062"><a href="http://www.wuxiaworld.com/category/terror-infinity/">Terror Infinity</a>
+</li>
+<li class="cat-item cat-item-1532"><a href="http://www.wuxiaworld.com/category/book-eating-magician/">The Book Eating Magician</a>
+</li>
+<li class="cat-item cat-item-1537"><a href="http://www.wuxiaworld.com/category/the-crimson-fan/">The Crimson Fan</a>
+</li>
+<li class="cat-item cat-item-1538"><a href="http://www.wuxiaworld.com/category/the-godsfall-chronicles/">The Godsfall Chronicles</a>
+</li>
+<li class="cat-item cat-item-1517"><a href="http://www.wuxiaworld.com/category/the-grandmaster-strategist/">The Grandmaster Strategist</a>
+</li>
+<li class="cat-item cat-item-414"><a href="http://www.wuxiaworld.com/category/tgr-chapter-release/">The Great Ruler</a>
+</li>
+<li class="cat-item cat-item-101"><a href="http://www.wuxiaworld.com/category/translator-thoughts/">Translator Thoughts</a>
+</li>
+<li class="cat-item cat-item-1499"><a href="http://www.wuxiaworld.com/category/true-martial-world/">True Martial World</a>
+</li>
+<li class="cat-item cat-item-1"><a href="http://www.wuxiaworld.com/category/uncategorized/">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-1496"><a href="http://www.wuxiaworld.com/category/unrivaled-tang-sect/">Unrivaled Tang Sect</a>
+</li>
+<li class="cat-item cat-item-763"><a href="http://www.wuxiaworld.com/category/upgrade-specialist-in-another-world/">Upgrade Specialist</a>
+</li>
+<li class="cat-item cat-item-1137"><a href="http://www.wuxiaworld.com/category/warlock-of-the-magus-world/">Warlock of the Magus World</a>
+</li>
+<li class="cat-item cat-item-632"><a href="http://www.wuxiaworld.com/category/wu-dong-qian-kun/">Wu Dong Qian Kun</a>
+</li>
+<li class="cat-item cat-item-1539"><a href="http://www.wuxiaworld.com/category/wuxia/">Wuxia</a>
+</li>
+</ul>
+</aside><aside id="ai_widget-28" class="widget ai_widget"><div class='code-block code-block-5' style='text-align: center; margin: 8px auto;'>
+<h1 id='d-title-1455633425297-4' style="margin: 0;" class="widget-title">Advertisement</h1>
+
+<div id='div-gpt-ad-1455633425297-4' class="wuxiaworld_BTF2" style='height:250px; width:300px; margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-4').parentNode.parentNode.style.padding = '0';
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-4'); });
+
+</script>
+</div>
+<p id='m-title-1455633425297-4' style="margin:0; font-size: 10px;">Advertisement</p>
+<script type='text/javascript'>
+    var node = null;
+
+    if (isMobileDevice()) {
+        node = document.getElementById('d-title-1455633425297-4');
+    } else {
+        node = document.getElementById('m-title-1455633425297-4');
+    }
+
+    node.parentNode.removeChild(node);
+</script></div>
+</aside><aside id="text-10" class="widget widget_text"><h1 class="widget-title">Join the WW Discord server!</h1> <div class="textwidget"><a href="https://discord.gg/QvhrMzK"><img style="margin: auto; display: block;" src="/wp-novel/themes/wuxia-world/images/Discord_Purple_Tight.png" alt="" width="300" height="125"></a></div>
+</aside><aside id="ai_widget-38" class="widget ai_widget"><div class='code-block code-block-3' style='text-align: center; margin: 8px auto;'>
+<h1 id='d-title-1455633425297-5' style="margin: 0;" class="widget-title">Advertisement</h1>
+
+<div id='div-gpt-ad-1455633425297-5' class="wuxiaworld_BTF3" style='height:250px; width:300px; margin: auto;'>
+<script type='text/javascript'>
+    document.getElementById('div-gpt-ad-1455633425297-5').parentNode.parentNode.style.padding = '0';
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455633425297-5'); });
+</script>
+</div>
+<p id='m-title-1455633425297-5' style="margin:0; font-size: 10px;">Advertisement</p>
+<script type='text/javascript'>
+    var node = null;
+
+    if (isMobileDevice()) {
+        node = document.getElementById('d-title-1455633425297-5');
+    } else {
+        node = document.getElementById('m-title-1455633425297-5');
+    }
+
+    node.parentNode.removeChild(node);
+</script></div>
+</aside></div>
+</div>
+</div>
+<footer id="footer-wide" role="contentinfo">
+<div class="site-info">
+<div id="text-42" class="footer-widget widget_text"><h3 class="widget-title">Links</h3> <div class="textwidget"><ul>
+<li><a href="http://wordpress.org/" target="_open">Proudly powered by WordPress</a></li>
+<li><a href="/privacy-policy/">Wuxia World's Terms of Use</a></li>
+</ul></div>
+</div> <div id="text-43" class="footer-widget widget_text"><h3 class="widget-title">Follow</h3> <div class="textwidget"><a href="https://twitter.com/rwxwuxiaworld" target="_open"><img src="/wp-novel/themes/wuxia-world/images/twitter2.png"/></a>
+<a id="feed-button" href="/feed" target="_open"><img src="/wp-novel/themes/wuxia-world/images/rss2.png"/></a>
+<a href="https://discord.gg/QvhrMzK" target="_open"><img src="/wp-novel/themes/wuxia-world/images/discord2.png"/></a>
+<script type='text/javascript'>
+var articleclass = jQuery('body.single-post #main > article').attr('class')
+if (articleclass != null) {
+var classlist = articleclass .split(/\s+/);
+jQuery.each(classlist, function(index, item) {
+    if (item.startsWith("category-")) {
+        jQuery('#feed-button').attr('href',"http://www.wuxiaworld.com/category/" + item.substring(9) + "/feed")
+    }
+});
+}
+</script>
+</div>
+</div> <div id="blog_subscription-4" class="footer-widget jetpack_subscription_widget"><h3 class="widget-title">Subscribe to Blog via Email</h3>
+<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-4">
+<div id="subscribe-text"></div><p>Join 8,536 other subscribers</p>
+<p id="subscribe-email">
+<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-4">
+Email Address </label>
+<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-4" placeholder="Email Address"/>
+</p>
+<p id="subscribe-submit">
+<input type="hidden" name="action" value="subscribe"/>
+<input type="hidden" name="source" value="http://www.wuxiaworld.com/atg-index/atg-chapter-1/"/>
+<input type="hidden" name="sub-type" value="widget"/>
+<input type="hidden" name="redirect_fragment" value="blog_subscription-4"/>
+<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget"/>
+</p>
+</form>
+<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-4]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-4'),
+					input = d.getElementById('subscribe-field-blog_subscription-4'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+</div> </div>
+<div class="footer-info">
+<p>Theme by MiPo91</p>
+<p>Copyright 2016 WuxiaWorld. All rights reserved.</p>
+</div>
+<script src="/wp-novel/themes/wuxia-world/js/posts.js?v=13"></script>
+
+<div class="banner_ad"> &nbsp; </div>
+<script type="text/javascript">
+(function() {
+
+        var detector = function() {
+            setTimeout(function() {
+
+                if(!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('banner_ad'),
+                    ad  = ads[ads.length - 1];
+
+                if(!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+                    ww_ga('send', {
+                        'hitType': 'event',
+                        'eventCategory': 'AdBlocker',
+                        'eventAction': 'Blocked',
+                        'nonInteraction': 1
+                    });
+
+                    console.log('Ad Blocker Detected');
+                } else {
+                    ww_ga('send', {
+                        'hitType': 'event',
+                        'eventCategory': 'AdBlocker',
+                        'eventAction': 'Not Blocked',
+                        'nonInteraction': 1
+                    });
+
+                    console.log('No Ad Blocker');
+                }
+            }, 2000);
+        }
+
+
+       detector();
+})();
+</script>
+ <script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script><script type="text/javascript">
+var vanilla_forum_url = 'http://forum.wuxiaworld.com';
+(function() {
+   var vanilla_count = document.createElement('script');
+   vanilla_count.type = 'text/javascript';
+   vanilla_count.src = vanilla_forum_url + '/js/count.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(vanilla_count);
+})();
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-novel/js/devicepx-jetpack.js?ver=201730'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-novel/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.6'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-novel/themes/wuxia-world/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-novel/themes/wuxia-world/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-includes/js/comment-reply.min.js?ver=20160823'></script>
+<script type='text/javascript' src='http://www.wuxiaworld.com/wp-includes/js/wp-embed.min.js?ver=20160823'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201730.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'81219153',post:'13943',tz:'-4',srv:'www.wuxiaworld.com'} ]);
+	_stq.push([ 'clickTrackerInit', '81219153', '13943' ]);
+</script>
+</footer>
+</body>
+</html>
