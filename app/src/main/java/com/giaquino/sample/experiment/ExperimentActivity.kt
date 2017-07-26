@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import com.giaquino.sample.R
 import com.giaquino.sample.databinding.ExActivityBinding
-import com.giaquino.sample.feature.novel.NovelActivity
+import com.giaquino.sample.feature.novel.ChapterActivity
 
 class ExperimentActivity : AppCompatActivity() {
 
@@ -20,6 +20,6 @@ class ExperimentActivity : AppCompatActivity() {
   }
 
   fun onStateExperimentClick() {
-    startActivity(Intent(this, NovelActivity::class.java))
+    startActivity(Intent(this, ChapterActivity::class.java))
   }
 }

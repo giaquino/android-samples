@@ -1,18 +1,18 @@
 package com.giaquino.sample.feature.novel.downloader
 
-import com.giaquino.sample.feature.novel.Novel
+import com.giaquino.sample.feature.novel.Chapter
 import com.giaquino.sample.feature.novel.client.Client
 import com.giaquino.sample.feature.novel.parser.ParserFactory
-import com.giaquino.sample.feature.novel.resolver.UrlResolverFactory
+import com.giaquino.sample.feature.novel.resolver.url.UrlResolverFactory
 
-class NovelDownloader(
+class ChapterDownloader(
     private val client: Client,
     private val parserFactory: ParserFactory,
     private val urlResolverFactory: UrlResolverFactory) {
 
-  fun load(novel: Novel): String {
-    val url = urlResolverFactory.createUrlResolver(novel).resolveUrl(novel)
+  fun load(chapter: Chapter): String {
+    val url = urlResolverFactory.createUrlResolver(chapter).resolveUrl(chapter)
     val response = client.request(url)
-    return parserFactory.createParser(novel).parse(response)
+    return parserFactory.createParser(chapter).parse(response)
   }
 }

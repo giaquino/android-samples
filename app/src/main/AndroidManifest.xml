@@ -47,7 +47,7 @@
         android:name=".experiment.state.ExStateActivity"
         android:label="@string/ex_state" />
 
-    <activity android:name=".feature.novel.NovelActivity"/>
+    <activity android:name=".feature.chapter.NovelActivity"/>
 
     <meta-data
         android:name="com.google.android.geo.API_KEY"
